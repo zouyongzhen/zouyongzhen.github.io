@@ -99,8 +99,7 @@
           "title": "Terobos pertempuran penjaga arena",
           "text": "Kalahkan semua penjaga di arena untuk membuka kunci tahap. Menangkan pertempuran terakhir untuk menyelesaikan rute."
         }
-      ],
-      "imageAlt": "Penjaga menghadapi gelombang makhluk dalam kabut"
+      ]
     },
     "world": {
       "kicker": "Jalan menembus kabut",
@@ -123,7 +122,7 @@
           "label": "03 · Setelah fajar",
           "title": "Jaga tanpa akhir",
           "text": "Setelah rute dituntaskan, gerombolan terus muncul menembus kabut.",
-          "imageAlt": "Jalur lentera yang menghilang ke pegunungan berkabut setelah jaga terakhir"
+          "imageAlt": "Undakan batu menghilang ke dalam hutan gunung berkabut"
         }
       ]
     },

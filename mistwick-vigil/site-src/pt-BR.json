@@ -99,8 +99,7 @@
           "title": "Romper a batalha da guarda",
           "text": "Derrote todos os guardas na arena para quebrar o bloqueio do palco. Termine a batalha final para completar a rota."
         }
-      ],
-      "imageAlt": "Um guardião diante de uma onda de feras na névoa"
+      ]
     },
     "world": {
       "kicker": "Caminhos através da névoa",
@@ -123,7 +122,7 @@
           "label": "03 · Além do amanhecer",
           "title": "Relógio sem fim",
           "text": "Depois que a rota fica livre, a horda continua subindo em meio à névoa.",
-          "imageAlt": "Um caminho de lanternas que desaparece na montanha coberta de névoa"
+          "imageAlt": "Degraus de pedra desaparecendo em uma floresta montanhosa enevoada"
         }
       ]
     },

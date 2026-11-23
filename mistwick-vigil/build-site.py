@@ -28,7 +28,7 @@ LEGACY_ALIASES = {
     "service-policy-en.html": ("service-policy.html", "Terms of service · Mistwick Vigil", "Continue to the Mistwick Vigil terms of service"),
 }
 HOME_IMAGE_ASSETS = {
-    "cover.webp", "watchkeepers.webp", "pathway.webp", "arena.webp", "endless-mist.webp",
+    "cover.webp", "arena.webp",
 }
 # Only inline <strong>, <a href="..."> and plain <p> markup is allowed in
 # translated strings; every other tag or stray "<" is rejected.
@@ -284,13 +284,21 @@ def home_page(locales: dict[str, dict], locale: dict) -> str:
         f'''          <article class="step"><div class="step-number">{index:02}</div><div><h3>{esc(item['title'])}</h3><p>{esc(item['text'])}</p></div></article>'''
         for index, item in enumerate(watch["steps"], 1)
     )
-    images = ["pathway.webp", "arena.webp", "endless-mist.webp"]
-    world_cards = "\n".join(
-        f'''        <article class="roster-card">
-          <img src="assets/{images[index]}" alt="{esc(item['imageAlt'])}" width="960" height="640" loading="lazy" decoding="async" sizes="(max-width: 560px) 100vw, (max-width: 820px) 50vw, 33vw">
-          <div class="roster-label"><small>{esc(item['label'])}</small><h3>{esc(item['title'])}</h3><p>{esc(item['text'])}</p></div>
-        </article>''' for index, item in enumerate(world["cards"])
-    )
+    images = [None, "arena.webp", None]
+    world_cards = []
+    for index, item in enumerate(world["cards"]):
+        image = images[index]
+        image_markup = ""
+        card_class = "roster-card"
+        if image:
+            image_markup = f'''          <img src="assets/{image}" alt="{esc(item['imageAlt'])}" width="960" height="1440" loading="lazy" decoding="async" sizes="(max-width: 560px) 100vw, (max-width: 820px) 50vw, 33vw">
+'''
+        else:
+            card_class += " roster-card-text"
+        world_cards.append(f'''        <article class="{card_class}">
+{image_markup}          <div class="roster-label"><small>{esc(item['label'])}</small><h3>{esc(item['title'])}</h3><p>{esc(item['text'])}</p></div>
+        </article>''')
+    world_cards = "\n".join(world_cards)
     support_items = "\n".join(
         f'          <div class="support-item"><span>{esc(item["label"])}</span><div>{interpolate(item["html"], locale)}</div></div>'
         for item in support["items"]
@@ -351,7 +359,6 @@ def home_page(locales: dict[str, dict], locale: dict) -> str:
           <p class="section-kicker">{esc(watch['kicker'])}</p>
           <h2 id="watch-title">{esc(watch['title'])}</h2>
           <p class="section-lede">{esc(watch['lede'])}</p>
-          <figure class="ritual-art"><img src="assets/watchkeepers.webp" alt="{esc(watch.get('imageAlt', watch['title']))}" width="960" height="640" loading="lazy" decoding="async" sizes="(max-width: 820px) min(100vw - 32px, 420px), 420px"></figure>
         </div>
         <div class="steps" aria-label="{esc(watch['stepsLabel'])}">
 {steps}
