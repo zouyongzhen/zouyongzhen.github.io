@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url><loc>https://zouyongzhen.github.io/</loc></url>
   <url><loc>https://zouyongzhen.github.io/saylove/</loc></url>
   <url><loc>https://zouyongzhen.github.io/saylove/privacy-policy.html</loc></url>
   <url><loc>https://zouyongzhen.github.io/saylove/service-policy.html</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/index-en.html</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/privacy-policy-en.html</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/service-policy.html</loc></url>
-  <url><loc>https://zouyongzhen.github.io/mistwick-vigil/service-policy-en.html</loc></url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/index-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/index-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/index-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/privacy-policy-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/privacy-policy.html"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/service-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy.html"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://zouyongzhen.github.io/mistwick-vigil/service-policy-zh.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zouyongzhen.github.io/mistwick-vigil/service-policy.html"/>
+    <lastmod>2026-11-23</lastmod>
+  </url>
 </urlset>
