@@ -99,7 +99,8 @@
           "title": "Brisez la bataille des gardes",
           "text": "Battez tous les gardes de l'arène pour briser le verrou de la scène. Terminez la bataille finale pour terminer l'itinéraire."
         }
-      ]
+      ],
+      "imageAlt": "Un gardien face à une vague de bêtes dans la brume"
     },
     "world": {
       "kicker": "Des chemins à travers la brume",
@@ -122,7 +123,7 @@
           "label": "03 · Au-delà de l'aube",
           "title": "Montre sans fin",
           "text": "Une fois la route dégagée, la horde continue de monter à travers la brume.",
-          "imageAlt": "Des marches en pierre disparaissent dans une forêt de montagne brumeuse"
+          "imageAlt": "Un chemin de lanternes qui disparaît dans la montagne brumeuse"
         }
       ]
     },

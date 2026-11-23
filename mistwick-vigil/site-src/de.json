@@ -99,7 +99,8 @@
           "title": "Schaffe den Durchbruch im Wachpostenkampf",
           "text": "Besiege alle Wachposten in der Arena, um die Etappensperre zu brechen. Gewinne den letzten Kampf, um die Route abzuschließen."
         }
-      ]
+      ],
+      "imageAlt": "Ein Wächter stellt sich in den Nebelwellen den Bestien"
     },
     "world": {
       "kicker": "Pfade durch den Nebel",
@@ -122,7 +123,7 @@
           "label": "03 · Jenseits des Morgens",
           "title": "Endlose Wacht",
           "text": "Nachdem die Route bezwungen ist, strömt die Horde weiter durch den Nebel.",
-          "imageAlt": "Steinstufen, die in einem nebligen Bergwald verschwinden"
+          "imageAlt": "Ein Laternenpfad verliert sich hinter der letzten Wacht im Bergnebel"
         }
       ]
     },

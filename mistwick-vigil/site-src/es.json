@@ -99,7 +99,8 @@
           "title": "Rompe la batalla de guardias",
           "text": "Derrota a todos los guardias de la arena para romper el bloqueo del escenario. Completa la batalla final para completar la ruta."
         }
-      ]
+      ],
+      "imageAlt": "Un vigilante frente a una oleada de bestias en la niebla"
     },
     "world": {
       "kicker": "Caminos a través de la niebla",
@@ -122,7 +123,7 @@
           "label": "03 · Más allá del amanecer",
           "title": "reloj sin fin",
           "text": "Una vez que la ruta está despejada, la horda sigue ascendiendo a través de la niebla.",
-          "imageAlt": "Escalones de piedra que desaparecen en un bosque de montaña brumoso"
+          "imageAlt": "Un camino de faroles que se pierde en la montaña cubierta de niebla"
         }
       ]
     },

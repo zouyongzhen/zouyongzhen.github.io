@@ -112,9 +112,9 @@ html[lang^="zh"] .hero h1 { letter-spacing: .08em; }
 html[lang^="zh"] .hero h1 span { letter-spacing: .1em; }
 .hero-lede { max-width: 45ch; margin: 26px 0 0; color: #dedcc8; font: 400 clamp(1.12rem, 2.8vw, 1.34rem)/1.8 var(--serif); }
 .hero-note { max-width: 49ch; margin: 12px 0 0; color: var(--paper-soft); font-size: .92rem; }
-/* Images keep their native 2:3 ratio: never cropped or stretched. */
-.hero-art { width: 100%; max-width: 420px; margin: 0; justify-self: center; overflow: hidden; border: 1px solid var(--line); border-radius: 4px; background: #07100f; box-shadow: 0 28px 70px rgba(0, 0, 0, .42); }
-.hero-art img { width: 100%; height: auto; }
+/* Use landscape cards for the website so the game art reads well beside copy. */
+.hero-art { width: 100%; max-width: 500px; aspect-ratio: 4 / 3; margin: 0; justify-self: center; overflow: hidden; border: 1px solid var(--line); border-radius: 4px; background: #07100f; box-shadow: 0 28px 70px rgba(0, 0, 0, .42); }
+.hero-art img { width: 100%; height: 100%; object-fit: cover; object-position: center 58%; }
 .cta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
 .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; max-width: 100%; padding: 9px 20px; border: 1px solid transparent; border-radius: 3px; cursor: pointer; font-size: .88rem; font-weight: 700; line-height: 1.45; letter-spacing: .025em; text-align: center; transition: transform .2s ease, background .2s ease, border-color .2s ease; }
 .btn:hover, .btn:focus-visible { transform: translateY(-2px); }
@@ -148,8 +148,8 @@ section[id] { scroll-margin-top: calc(90px + var(--safe-top)); }
 .ritual-inner { display: grid; grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr); gap: clamp(42px, 7vw, 80px); align-items: center; }
 .ritual-copy { min-width: 0; }
 .ritual-copy .section-lede { color: #d0d4bd; }
-.ritual-art { width: 100%; max-width: 310px; margin: 32px 0 0; overflow: hidden; border: 1px solid var(--line-soft); border-radius: 3px; }
-.ritual-art img { width: 100%; height: auto; }
+.ritual-art { width: 100%; max-width: 420px; aspect-ratio: 3 / 2; margin: 32px 0 0; overflow: hidden; border: 1px solid var(--line-soft); border-radius: 3px; }
+.ritual-art img { width: 100%; height: 100%; object-fit: cover; object-position: center; }
 .steps { min-width: 0; display: grid; border-top: 1px solid var(--line); }
 .step { display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 18px; padding-block: 24px; border-bottom: 1px solid var(--line); }
 .step-number { color: var(--gold); font: 500 1.22rem var(--serif); direction: ltr; }
@@ -159,7 +159,7 @@ section[id] { scroll-margin-top: calc(90px + var(--safe-top)); }
 .roster { background: linear-gradient(180deg, rgba(15, 34, 28, .6), rgba(8, 17, 15, .4)); }
 .roster-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
 .roster-card { min-width: 0; overflow: hidden; border: 1px solid var(--line-soft); background: rgba(7, 15, 14, .8); }
-.roster-card > img { width: 100%; height: auto; background: #091512; }
+.roster-card > img { width: 100%; height: clamp(210px, 22vw, 320px); background: #091512; object-fit: cover; object-position: center; }
 .roster-label { padding: 22px 23px 24px; }
 .roster-label small { display: block; color: var(--gold); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; }
 .roster-label h3 { margin: 5px 0 0; color: var(--paper); font: 500 1.48rem/1.25 var(--serif); }
@@ -220,11 +220,11 @@ footer { border-top: 1px solid var(--line-soft); padding-block: 26px calc(32px +
   .nav > a { min-height: 40px; display: inline-flex; align-items: center; }
   .hero-inner { padding-block: 58px; grid-template-columns: 1fr; gap: 42px; }
   .hero-copy { max-width: 680px; }
-  .hero-art { max-width: 390px; }
+  .hero-art { max-width: 520px; }
   .hero-facts { margin-top: 46px; }
   .section { padding-block: 76px; }
   .ritual-inner { grid-template-columns: 1fr; gap: 42px; }
-  .ritual-art { max-width: 350px; }
+  .ritual-art { max-width: 520px; }
   .support-grid { grid-template-columns: 1fr; gap: 42px; }
   .roster-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .roster-card:first-child { grid-column: 1 / -1; width: calc(50% - 8px); justify-self: center; }
@@ -263,7 +263,7 @@ footer { border-top: 1px solid var(--line-soft); padding-block: 26px calc(32px +
   .feature-symbol { margin-bottom: 18px; }
   .roster-grid { grid-template-columns: 1fr; }
   .roster-card:first-child { grid-column: auto; width: 100%; }
-  .roster-card > img { max-width: 420px; margin-inline: auto; }
+  .roster-card > img { height: clamp(220px, 62vw, 360px); max-width: 420px; margin-inline: auto; }
   .support-item { grid-template-columns: 1fr; gap: 5px; }
   .closing { padding-block: 72px 82px; }
   .footer-inner { align-items: flex-start; flex-direction: column; }
@@ -282,7 +282,7 @@ footer { border-top: 1px solid var(--line-soft); padding-block: 26px calc(32px +
 
 @media (orientation: landscape) and (max-height: 560px) and (max-width: 820px) {
   .hero-inner { grid-template-columns: minmax(0, 1fr) minmax(220px, .62fr); align-items: center; padding-block: 34px 40px; gap: 28px; }
-  .hero-art { max-width: 300px; }
+  .hero-art { max-width: 340px; aspect-ratio: 4 / 3; }
   .hero-lede { margin-top: 16px; }
   .hero-facts { margin-top: 28px; }
   .scroll-hint { margin-top: 22px; }

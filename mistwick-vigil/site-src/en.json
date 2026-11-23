@@ -99,7 +99,8 @@
           "title": "Break through the guard battle",
           "text": "Defeat every guard in the arena to break the stage lock. Clear the final battle to complete the route."
         }
-      ]
+      ],
+      "imageAlt": "A watchkeeper facing a wave of beasts in the mist"
     },
     "world": {
       "kicker": "Paths through the mist",
@@ -122,7 +123,7 @@
           "label": "03 · Beyond dawn",
           "title": "Endless watch",
           "text": "After the route is clear, the horde keeps rising through the mist.",
-          "imageAlt": "Stone steps disappearing into a misty mountain forest"
+          "imageAlt": "A lantern path fading into a misty mountain beyond the last watch"
         }
       ]
     },

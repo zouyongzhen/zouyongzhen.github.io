@@ -11,6 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "site-src"
+ASSETS = ROOT / "assets"
 BASE_URL = "https://zouyongzhen.github.io/mistwick-vigil"
 # Keep this order in sync with `app/src/main/assets/locales/catalog.js` in the
 # MistwickVigil app. English remains the x-default website page below.
@@ -25,6 +26,9 @@ LEGACY_ALIASES = {
     "index-en.html": ("./", "Mistwick Vigil", "Continue to the Mistwick Vigil website"),
     "privacy-policy-en.html": ("privacy-policy.html", "Privacy policy · Mistwick Vigil", "Continue to the Mistwick Vigil privacy policy"),
     "service-policy-en.html": ("service-policy.html", "Terms of service · Mistwick Vigil", "Continue to the Mistwick Vigil terms of service"),
+}
+HOME_IMAGE_ASSETS = {
+    "cover.webp", "watchkeepers.webp", "pathway.webp", "arena.webp", "endless-mist.webp",
 }
 # Only inline <strong>, <a href="..."> and plain <p> markup is allowed in
 # translated strings; every other tag or stray "<" is rejected.
@@ -137,6 +141,12 @@ def validate(locales: dict[str, dict]) -> None:
                     expected_type = reference[kind]["sections"][index]["blocks"][position]["type"]
                     if block["type"] != expected_type:
                         raise ValueError(f"Block type differs in {code}/{kind} section {index} block {position}")
+
+
+def validate_assets() -> None:
+    missing = sorted(name for name in HOME_IMAGE_ASSETS if not (ASSETS / name).is_file())
+    if missing:
+        raise ValueError(f"Missing website image assets: {missing}")
 
 
 def links_for(locales: dict[str, dict], current: dict, kind: str) -> str:
@@ -274,10 +284,10 @@ def home_page(locales: dict[str, dict], locale: dict) -> str:
         f'''          <article class="step"><div class="step-number">{index:02}</div><div><h3>{esc(item['title'])}</h3><p>{esc(item['text'])}</p></div></article>'''
         for index, item in enumerate(watch["steps"], 1)
     )
-    images = ["cover.webp", "arena.webp", "cover.webp"]
+    images = ["pathway.webp", "arena.webp", "endless-mist.webp"]
     world_cards = "\n".join(
         f'''        <article class="roster-card">
-          <img src="assets/{images[index]}" alt="{esc(item['imageAlt'])}" width="960" height="1440" loading="lazy" decoding="async" sizes="(max-width: 560px) 100vw, (max-width: 820px) 50vw, 33vw">
+          <img src="assets/{images[index]}" alt="{esc(item['imageAlt'])}" width="960" height="640" loading="lazy" decoding="async" sizes="(max-width: 560px) 100vw, (max-width: 820px) 50vw, 33vw">
           <div class="roster-label"><small>{esc(item['label'])}</small><h3>{esc(item['title'])}</h3><p>{esc(item['text'])}</p></div>
         </article>''' for index, item in enumerate(world["cards"])
     )
@@ -341,7 +351,7 @@ def home_page(locales: dict[str, dict], locale: dict) -> str:
           <p class="section-kicker">{esc(watch['kicker'])}</p>
           <h2 id="watch-title">{esc(watch['title'])}</h2>
           <p class="section-lede">{esc(watch['lede'])}</p>
-          <figure class="ritual-art"><img src="assets/arena.webp" alt="{esc(world['cards'][1]['imageAlt'])}" width="960" height="1440" loading="lazy" decoding="async" sizes="(max-width: 820px) min(100vw - 32px, 350px), 310px"></figure>
+          <figure class="ritual-art"><img src="assets/watchkeepers.webp" alt="{esc(watch.get('imageAlt', watch['title']))}" width="960" height="640" loading="lazy" decoding="async" sizes="(max-width: 820px) min(100vw - 32px, 420px), 420px"></figure>
         </div>
         <div class="steps" aria-label="{esc(watch['stepsLabel'])}">
 {steps}
@@ -487,6 +497,7 @@ def main() -> int:
         with path.open(encoding="utf-8") as source:
             locales[code] = json.load(source)
     validate(locales)
+    validate_assets()
     for locale in locales.values():
         for kind in ("home", "privacy", "service"):
             path = ROOT / ("index.html" if kind == "home" and locale["code"] == "en" else page_path(locale, kind))
