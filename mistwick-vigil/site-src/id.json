@@ -1,0 +1,580 @@
+{
+  "code": "id",
+  "htmlLang": "id",
+  "dir": "ltr",
+  "name": "Bahasa Indonesia",
+  "suffix": "-id",
+  "common": {
+    "skip": "Lewati ke konten utama",
+    "homeAria": "Beranda Mistwick Vigil",
+    "tagline": "Jaga cahaya tetap menyala",
+    "mainNav": "Navigasi utama",
+    "footerNav": "Navigasi footer",
+    "language": "Bahasa",
+    "features": "Fitur",
+    "watch": "Cara bermain",
+    "world": "Dunia game",
+    "support": "Dukungan",
+    "legal": "Privasi dan ketentuan",
+    "privacy": "Kebijakan privasi",
+    "terms": "Ketentuan layanan",
+    "supportEmail": "Email dukungan",
+    "backHome": "Kembali ke situs web"
+  },
+  "home": {
+    "title": "Mistwick Vigil — Aksi Bertahan Hidup Luring",
+    "description": "Mistwick Vigil adalah game aksi bertahan hidup pemain tunggal yang dapat dimainkan secara luring. Pilih seorang penjaga, bawa lentera ke dalam kabut, dan bertahanlah hingga fajar.",
+    "keywords": "Mistwick Vigil,game luring,game pemain tunggal,game aksi bertahan hidup,game Android",
+    "ogTitle": "Mistwick Vigil — Jaga cahaya tetap menyala sepanjang malam",
+    "ogDescription": "Satu lentera. Satu malam. Pilih seorang penjaga dan temukan jalanmu melalui penjagaan malam yang singkat dan menegangkan.",
+    "ogAlt": "Seorang penjaga membawa lentera mendekati gerbang gunung di tengah hujan",
+    "structuredDescription": "Game aksi bertahan hidup pemain tunggal yang dapat dimainkan secara luring.",
+    "hero": {
+      "kicker": "Sebuah lentera di dalam kabut",
+      "title": "Mistwick",
+      "subtitle": "Vigil",
+      "lede": "Satu lentera. Satu malam. Bertahanlah hingga fajar.",
+      "note": "Saat kabut naik, makhluk-makhluk turun melalui undakan batu. Pilih seorang penjaga, masuki gunung, dan temukan jalanmu melalui penjagaan malam yang singkat dan menegangkan.",
+      "primary": "Jelajahi game",
+      "secondary": "Baca kebijakan privasi",
+      "imageAlt": "Seorang penjaga membawa lentera menuju gerbang gunung di tengah hujan",
+      "factsLabel": "Ringkasan game",
+      "facts": [
+        {
+          "value": "Luring",
+          "label": "Permainan inti tanpa akun"
+        },
+        {
+          "value": "30",
+          "label": "penjaga"
+        },
+        {
+          "value": "3",
+          "label": "rute kampanye"
+        },
+        {
+          "value": "13",
+          "label": "bahasa dalam game"
+        }
+      ],
+      "scroll": "Mulai penjagaan"
+    },
+    "features": {
+      "kicker": "Permainan bertahan hidup yang tenang",
+      "title": "Bawalah satu cahaya kecil melewati sepanjang malam.",
+      "lede": "Pilih seorang penjaga, bergeraklah menembus gerombolan, kumpulkan pengalaman, dan bentuk setiap ekspedisi melalui berkah dan terobosan. Setiap peningkatan memerlukan pertimbangan; gelombang berikutnya akan mengujinya.",
+      "cards": [
+        {
+          "symbol": "◈",
+          "title": "Pilih senjatamu",
+          "html": "Dari pedang dan tombak hingga kait, cambuk, palu, dan palu meteor, <strong>30 penjaga</strong> menghadirkan jangkauan, ritme, dan bentuk serangan yang berbeda."
+        },
+        {
+          "symbol": "☼",
+          "title": "Biarkan berkah membentuk ekspedisi",
+          "html": "Pilih satu dari tiga berkah setiap kali naik level. Serangan, peluang kritis, jangkauan, gerakan, dan ketahanan mengarahkan build-mu ke arah yang berbeda."
+        },
+        {
+          "symbol": "✦",
+          "title": "Bertahanlah melewati setiap fajar",
+          "html": "Pertempuran melawan penjaga arena terjadi setiap lima tahap. Kalahkan semua penjaga arena pada rute saat ini untuk menerobos dan berjalan lebih jauh ke dalam gunung."
+        }
+      ]
+    },
+    "watch": {
+      "kicker": "Alur sebuah penjagaan",
+      "title": "Setiap penjagaan dimulai dengan sebuah lentera.",
+      "lede": "Karaktermu menyerang secara otomatis sehingga kamu dapat memusatkan perhatian pada posisi, waktu, dan keputusan berikutnya di dalam kabut.",
+      "stepsLabel": "Tiga tahap penjagaan malam",
+      "steps": [
+        {
+          "title": "Pilih seorang penjaga",
+          "text": "Pilih peran yang tersedia dan cara bertarungnya, lalu pilih rute tempat kamu akan menerangi jalan pertama."
+        },
+        {
+          "title": "Ambil keputusan di tengah gerombolan",
+          "text": "Kumpulkan pengalaman dan perlengkapan, lalu pilih berkah yang secara bertahap membentuk build berdasarkan senjata dan situasimu."
+        },
+        {
+          "title": "Terobos pertempuran penjaga arena",
+          "text": "Kalahkan semua penjaga di arena untuk membuka kunci tahap. Menangkan pertempuran terakhir untuk menyelesaikan rute."
+        }
+      ]
+    },
+    "world": {
+      "kicker": "Jalan menembus kabut",
+      "title": "Gunung mengingat setiap langkah.",
+      "lede": "Dari pelataran batu yang disinari hujan hingga perairan yang dikelilingi alang-alang, setiap rute terbuka sedikit lebih jauh. Setiap kemajuan memberi lentera berikutnya tempat untuk memulai.",
+      "cards": [
+        {
+          "label": "01 · Cahaya pertama",
+          "title": "Masuk ke kabut",
+          "text": "Tangga batu yang berkilau karena hujan mengarah melewati gerbang gunung.",
+          "imageAlt": "Jalan gunung yang disinari hujan dan seorang penjaga dengan lentera"
+        },
+        {
+          "label": "02 · Arena",
+          "title": "Formasi batu",
+          "text": "Sebelum para penjaga arena tiba, bel berbunyi.",
+          "imageAlt": "Arena batu melingkar yang dikelilingi lentera dan daun musim gugur"
+        },
+        {
+          "label": "03 · Setelah fajar",
+          "title": "Jaga tanpa akhir",
+          "text": "Setelah rute dituntaskan, gerombolan terus muncul menembus kabut.",
+          "imageAlt": "Undakan batu menghilang ke dalam hutan gunung berkabut"
+        }
+      ]
+    },
+    "support": {
+      "kicker": "Tetaplah dalam cahaya",
+      "title": "Butuh bantuan atau ingin memberikan masukan?",
+      "lede": "Mistwick Vigil berfokus pada pengalaman pemain tunggal secara luring. Saat melaporkan masalah, sertakan model perangkat, versi Android, versi aplikasi, dan langkah-langkah yang menyebabkan masalah tersebut. Mohon jangan sertakan informasi pribadi yang sensitif.",
+      "items": [
+        {
+          "label": "Email dukungan",
+          "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+        },
+        {
+          "label": "Simpanan lokal",
+          "html": "<p>Pengaturan, konten yang telah dibuka, dan progres tetap berada di perangkatmu. Menghapus penyimpanan aplikasi atau mencopot aplikasi akan menghapusnya; data tersebut tidak disinkronkan ke cloud.</p>"
+        },
+        {
+          "label": "Penggunaan jaringan",
+          "html": "<p>Permainan inti berfungsi secara luring. Membuka kebijakan privasi atau ketentuan layanan yang dihosting secara daring memerlukan koneksi internet.</p>"
+        },
+        {
+          "label": "Hukum dan privasi",
+          "html": "<p>Baca <a href=\"{{privacy}}\">kebijakan privasi</a> dan <a href=\"{{service}}\">ketentuan layanan</a> untuk versi saat ini.</p>"
+        }
+      ]
+    },
+    "closing": {
+      "title": "Kabut belum terangkat. Lentera telah menyala.",
+      "text": "Mistwick Vigil masih terus disempurnakan. Situs web ini beserta halaman hukumnya akan berkembang bersama game.",
+      "primary": "Baca ketentuan",
+      "secondary": "Hubungi pengembang"
+    }
+  },
+  "privacy": {
+    "title": "Kebijakan privasi · Mistwick Vigil",
+    "description": "Kebijakan privasi untuk aplikasi Android dan situs web Mistwick Vigil, termasuk simpanan lokal, pemilihan bahasa sistem, dan halaman hukum daring.",
+    "ogDescription": "Cara Mistwick Vigil menangani data game lokal, pemilihan bahasa perangkat, dan halaman hukum yang dihosting secara daring.",
+    "kicker": "Mistwick Vigil · Privasi",
+    "heading": "Kebijakan privasi",
+    "subtitle": "Kebijakan ini menjelaskan apa yang disimpan aplikasi Mistwick Vigil saat ini di perangkatmu, cara aplikasi memilih bahasa awal, dan apa yang terjadi saat kamu membuka halaman yang dihosting secara daring ini.",
+    "meta": [
+      "Versi dokumen 1.1",
+      "Berlaku 23 November 2026",
+      "Berlaku untuk aplikasi Android dan situs web ini"
+    ],
+    "tocTitle": "Di halaman ini",
+    "sections": [
+      {
+        "id": "overview",
+        "toc": "Ringkasan",
+        "title": "1. Ringkasan dan cakupan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Mistwick Vigil adalah game pemain tunggal yang dirancang agar permainan intinya dapat berjalan secara luring. Pengembang adalah pihak yang bertanggung jawab atas aplikasi dan dapat dihubungi menggunakan alamat email di bagian <a href=\"#contact\">Kontak</a>."
+          },
+          {
+            "type": "p",
+            "html": "Kebijakan ini berlaku untuk aplikasi Android Mistwick Vigil dan halaman khusus game di situs web ini. Kebijakan ini menjelaskan versi saat ini; kebijakan ini tidak mencakup aplikasi atau situs web lain yang ditautkan dari toko, aplikasi email, atau browsermu."
+          },
+          {
+            "type": "callout",
+            "html": "<strong>Singkatnya:</strong> aplikasi tidak memiliki sistem akun, iklan, analitik perilaku, atau pembelian dalam aplikasi. Pengaturan dan progres permainan disimpan secara lokal. Kami tidak mengoperasikan server permainan yang menerima data simpananmu."
+          }
+        ]
+      },
+      {
+        "id": "local-data",
+        "toc": "Data lokal",
+        "title": "2. Informasi yang disimpan di perangkatmu",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Untuk memulihkan pengalaman bermainmu, aplikasi dapat menyimpan informasi berikut di penyimpanan aplikasi lokalnya:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Bahasa antarmuka pilihanmu, tingkat audio, pengaturan suara, kontrol, dan preferensi tampilan.",
+              "Penjaga dan rute pilihanmu, rute atau peran yang telah dibuka, hasil terbaik, dan progres permainan lain yang didukung.",
+              "Versi atau status konfirmasi pemberitahuan dalam aplikasi dan dokumen hukum, jika aplikasi mencatatnya."
+            ]
+          },
+          {
+            "type": "p",
+            "html": "Informasi ini hanya digunakan untuk menyediakan dan memulihkan fungsi aplikasi lokal. Informasi ini bukan profil akun daring. Game saat ini tidak memintamu memberikan nama, lokasi persis, kontak, foto, atau detail pembayaran."
+          }
+        ]
+      },
+      {
+        "id": "language",
+        "toc": "Bahasa perangkat",
+        "title": "3. Pemilihan bahasa perangkat awal",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Saat pertama kali diluncurkan, aplikasi membaca preferensi bahasa yang diberikan oleh Android untuk memilih bahasa antarmuka yang didukung. Jika bahasa pilihanmu tidak didukung, aplikasi menggunakan bahasa Inggris. Setelah kamu memilih bahasa secara manual, pilihan tersebut disimpan secara lokal dan diprioritaskan pada peluncuran berikutnya."
+          },
+          {
+            "type": "p",
+            "html": "Preferensi bahasa digunakan untuk tampilan antarmuka dan tidak dikirimkan kepada kami oleh permainan inti."
+          }
+        ]
+      },
+      {
+        "id": "network",
+        "toc": "Jaringan dan halaman hukum",
+        "title": "4. Penggunaan jaringan dan halaman hukum daring",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Permainan inti tidak memerlukan koneksi internet. Tautan kebijakan privasi dan ketentuan layanan dalam aplikasi mengarah ke halaman yang dihosting di GitHub Pages, sehingga halaman tersebut memerlukan koneksi internet dan mungkin tidak tersedia jika perangkatmu atau layanan hosting sedang luring."
+          },
+          {
+            "type": "p",
+            "html": "Saat kamu memilih untuk membuka halaman hukum daring, browser atau WebView mengirimkan permintaan web standar ke GitHub Pages. GitHub dapat memproses informasi koneksi teknis, seperti alamat IP, URL yang diminta, stempel waktu, serta header browser atau perangkat, untuk menyediakan dan melindungi layanannya. Aplikasi tidak menambahkan data simpananmu ke tautan ini."
+          },
+          {
+            "type": "p",
+            "html": "Situs web ini tidak menggunakan iklan, skrip analitik, piksel pelacak, atau cookie yang kami pasang. Browser, penyedia jaringan, dan GitHub Pages memiliki praktik data masing-masing."
+          }
+        ]
+      },
+      {
+        "id": "third-parties",
+        "toc": "Pihak ketiga",
+        "title": "5. Layanan pihak ketiga dan tautan eksternal",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kami tidak mengintegrasikan jaringan iklan, penyedia analitik perilaku, pemroses pembayaran, layanan login media sosial, atau backend permainan yang dioperasikan pengembang ke dalam aplikasi saat ini."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages menghosting situs web ini dan dokumen hukumnya. Toko aplikasi dapat memproses informasi saat kamu menjelajahi, mengunduh, memasang, atau memperbarui aplikasi berdasarkan ketentuan privasinya sendiri. Jika kamu memilih tautan email, aplikasi email dan penyediamu memproses pesan beserta isinya."
+          },
+          {
+            "type": "p",
+            "html": "Pengembang tidak menjual atau menyewakan informasi pribadi. Permainan inti tidak membagikan informasi pribadi kepada pengembang atau pihak ketiga untuk iklan atau pembuatan profil perilaku."
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "toc": "Penyimpanan dan penghapusan",
+        "title": "6. Penyimpanan dan penghapusan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Pengaturan dan progres lokal tetap berada di perangkatmu sampai kamu menghapus penyimpanan aplikasi di setelan Android atau mencopot aplikasi. Salah satu tindakan tersebut menghapus pengaturan, konten yang telah dibuka, hasil, dan progres yang tersimpan secara lokal di aplikasi. Cadangkan secara terpisah apa pun yang ditawarkan perangkat atau toko aplikasimu jika ingin menyimpannya; game ini sendiri tidak menyediakan sinkronisasi simpanan cloud."
+          },
+          {
+            "type": "p",
+            "html": "Penjagaan yang sedang berlangsung tidak diunggah ke server pengembang saat aplikasi ditutup. Informasi yang diproses secara independen oleh GitHub, toko aplikasi, atau penyedia email disimpan sesuai kebijakan penyedia terkait."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "toc": "Keamanan",
+        "title": "7. Keamanan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Menyimpan data permainan di penyimpanan lokal aplikasi mengurangi kebutuhan untuk mengirimkannya. Halaman hukum daring disajikan melalui HTTPS. Tidak ada metode penyimpanan atau pengiriman yang sepenuhnya aman, jadi selalu perbarui perangkat dan sistem operasimu serta gunakan perlindungan akses yang tersedia di perangkat."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "toc": "Anak-anak",
+        "title": "8. Privasi anak-anak",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Aplikasi saat ini tidak dengan sengaja mengumpulkan informasi pribadi dari anak-anak melalui pendaftaran akun, iklan, analitik, atau server permainan. Orang tua dan wali sebaiknya mengawasi penggunaan tautan web daring dan email oleh anak jika diperlukan. Jika kamu yakin informasi pribadi telah dikirim kepada kami secara tidak perlu, hubungi kami agar kami dapat meninjaunya dan menghapusnya dari catatan kami sendiri jika diwajibkan."
+          }
+        ]
+      },
+      {
+        "id": "rights",
+        "toc": "Pilihan dan hakmu",
+        "title": "9. Pilihan dan hak privasimu",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kamu dapat memainkan permainan inti tanpa membuat akun, mengubah bahasa antarmuka di aplikasi, tidak membuka halaman daring atau tautan email, dan menghapus data lokal menggunakan kontrol Android."
+          },
+          {
+            "type": "p",
+            "html": "Bergantung pada hukum yang berlaku, kamu mungkin memiliki hak atas informasi pribadi yang secara sukarela kamu kirim kepada kami, seperti email dukungan. Kamu dapat menghubungi kami untuk meminta akses, koreksi, atau penghapusan informasi dalam catatan kami sendiri, dengan tunduk pada kewajiban penyimpanan menurut hukum dan kebutuhan verifikasi. Informasi yang disimpan platform atau GitHub harus ditangani melalui penyedia terkait."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "toc": "Perubahan kebijakan",
+        "title": "10. Perubahan pada kebijakan ini",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kami dapat memperbarui kebijakan ini ketika fitur aplikasi, hosting, atau praktik datanya berubah. Versi dokumen dan tanggal berlaku di bagian atas menunjukkan teks saat ini. Perubahan penting akan ditampilkan di aplikasi atau situs web ini jika sesuai. Penggunaan setelah pembaruan tunduk pada kebijakan yang direvisi, kecuali jika hukum yang berlaku mensyaratkan bentuk pemberitahuan atau persetujuan yang berbeda."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Kontak",
+        "title": "11. Kontak",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Untuk pertanyaan tentang privasi, dukungan, atau permintaan mengenai informasi yang kamu kirim kepada pengembang, hubungi:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Sertakan versi aplikasi dan detail yang cukup agar kami memahami permintaanmu, tetapi jangan kirim kata sandi, detail pembayaran, atau informasi sensitif yang tidak perlu."
+          }
+        ]
+      }
+    ]
+  },
+  "service": {
+    "title": "Ketentuan layanan · Mistwick Vigil",
+    "description": "Ketentuan layanan untuk Mistwick Vigil, yang mencakup lisensi aplikasi, penggunaan yang diperbolehkan, progres lokal, pembaruan, dan halaman hukum eksternal.",
+    "ogDescription": "Lisensi aplikasi, aturan penggunaan yang diperbolehkan, progres lokal, dan ketentuan pembaruan untuk Mistwick Vigil.",
+    "kicker": "Mistwick Vigil · Ketentuan",
+    "heading": "Ketentuan layanan",
+    "subtitle": "Ketentuan ini mengatur penggunaan aplikasi Android dan situs web game Mistwick Vigil saat ini olehmu. Harap baca sebelum memasang, mengakses, atau menggunakan game.",
+    "meta": [
+      "Versi dokumen 1.1",
+      "Berlaku 23 November 2026",
+      "Berlaku untuk aplikasi Android dan situs web ini"
+    ],
+    "tocTitle": "Di halaman ini",
+    "sections": [
+      {
+        "id": "acceptance",
+        "toc": "Penerimaan dan cakupan",
+        "title": "1. Penerimaan dan cakupan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Dengan memasang, mengakses, atau menggunakan Mistwick Vigil, kamu menyetujui ketentuan ini dan <a href=\"{{privacy}}\">kebijakan privasi</a>. Jika kamu tidak setuju, jangan pasang atau gunakan aplikasi, dan copot setiap salinan yang sudah ada di perangkatmu."
+          },
+          {
+            "type": "p",
+            "html": "Dalam ketentuan ini, “game” mencakup aplikasi beserta adegan, gambar, audio, teks, dan kode yang disertakan. “Situs web” berarti halaman Mistwick Vigil yang dihosting di <a href=\"{{home}}\">zouyongzhen.github.io/mistwick-vigil/</a>. Ketentuan toko aplikasi juga dapat berlaku untuk pengunduhan dan penggunaan aplikasi olehmu."
+          }
+        ]
+      },
+      {
+        "id": "eligibility",
+        "toc": "Kelayakan",
+        "title": "2. Kelayakan dan pengawasan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kamu harus memiliki kapasitas hukum yang disyaratkan untuk menerima ketentuan ini di yurisdiksimu. Jika kamu di bawah umur atau karena alasan lain memerlukan izin, orang tua atau wali yang sah harus meninjau dan menyetujui ketentuan ini serta mengawasi penggunaanmu jika diwajibkan oleh hukum yang berlaku."
+          },
+          {
+            "type": "p",
+            "html": "Kamu bertanggung jawab untuk mematuhi hukum, aturan toko aplikasi, dan persyaratan perangkat yang berlaku bagimu."
+          }
+        ]
+      },
+      {
+        "id": "license",
+        "toc": "Lisensi aplikasi",
+        "title": "3. Lisensi aplikasi terbatas",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Dengan tunduk pada ketentuan ini, pengembang memberimu lisensi pribadi, terbatas, non-eksklusif, tidak dapat dialihkan, tidak dapat disublisensikan, dan dapat dicabut untuk memasang serta menggunakan aplikasi saat ini pada perangkat yang kamu miliki atau kendalikan, semata-mata untuk hiburan pribadi."
+          },
+          {
+            "type": "p",
+            "html": "Lisensi ini tidak mengalihkan kepemilikan game atau kontennya. Hak yang tidak diberikan secara tegas dilindungi oleh pengembang dan pemegang hak terkait. Setiap hak menurut undang-undang yang tidak dapat dibatasi secara sah tetap tidak terpengaruh."
+          }
+        ]
+      },
+      {
+        "id": "use",
+        "toc": "Penggunaan yang diperbolehkan",
+        "title": "4. Penggunaan yang diperbolehkan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kamu dapat menyesuaikan pengaturan yang didukung, memilih penjaga, memainkan rute kampanye dan penjagaan tanpa akhir yang tersedia, serta menggunakan fitur game saat ini untuk hiburan pribadi."
+          },
+          {
+            "type": "p",
+            "html": "Kamu tidak boleh:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Menggunakan game atau situs web untuk melanggar hukum, melanggar hak orang lain, menyebarkan kode berbahaya, atau mengganggu pengoperasian atau keamanan layanan atau perangkat.",
+              "Menyalin, mendistribusikan ulang, menjual, menyewakan, mensublisensikan, menampilkan di depan umum, atau mengeksploitasi konten game yang dilindungi secara komersial tanpa izin, kecuali jika diizinkan secara tegas oleh hukum yang berlaku.",
+              "Menghapus pemberitahuan hak, melewati perlindungan teknis, atau menyatakan salinan yang dimodifikasi maupun tidak resmi sebagai game resmi.",
+              "Melakukan rekayasa balik atau mengekstrak kode atau aset game kecuali sejauh pembatasan tersebut dilarang oleh hukum yang berlaku."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "toc": "Progres lokal",
+        "title": "5. Pengaturan dan progres lokal",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Pengaturan, konten yang telah dibuka, hasil terbaik, dan progres lain yang didukung disimpan secara lokal di perangkat saat ini. Data tersebut tidak secara otomatis disinkronkan ke akun atau layanan cloud, dan pengembang tidak dapat memulihkannya dari server permainan."
+          },
+          {
+            "type": "p",
+            "html": "Menghapus data aplikasi, mencopot game, mengganti perangkat, atau tindakan sistem operasi tertentu dapat menghapus progres lokal atau membuatnya tidak dapat diakses. Penjagaan yang sedang berlangsung dapat berakhir saat aplikasi ditutup atau terganggu, dan progres yang tidak disimpan secara lokal tidak dapat dipulihkan."
+          }
+        ]
+      },
+      {
+        "id": "external",
+        "toc": "Jaringan dan layanan eksternal",
+        "title": "6. Penggunaan jaringan dan layanan eksternal",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Permainan inti dirancang untuk berfungsi secara luring. Membuka kebijakan privasi atau ketentuan layanan yang dihosting secara daring memerlukan koneksi internet. Kami tidak menjamin bahwa halaman daring akan selalu tersedia atau kompatibel dengan setiap browser, WebView, jaringan, atau perangkat."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages, toko aplikasi, browser, dan penyedia email adalah layanan pihak ketiga dengan ketentuan dan praktik privasi masing-masing. Kami tidak bertanggung jawab atas konten atau layanan pihak ketiga yang tidak kami kendalikan. Tautan disediakan demi kemudahan dan tidak mengalihkan tanggung jawab atas pengoperasian independen pihak ketiga tersebut."
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "toc": "Konten dan masukan",
+        "title": "7. Konten game dan masukan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Game, situs web, desain visual, gambar, audio, teks, dan kode disediakan oleh pengembang atau pemegang hak terkait serta dilindungi oleh hukum kekayaan intelektual yang berlaku."
+          },
+          {
+            "type": "p",
+            "html": "Jika kamu secara sukarela mengirim saran, laporan bug, atau masukan lain, kamu mengizinkan pengembang menggunakan masukan tersebut tanpa batasan atau pembayaran untuk mengoperasikan, meningkatkan, dan mengembangkan game, dengan ketentuan bahwa hal ini tidak memberikan kepemilikan atas materi pribadimu yang tidak terkait. Jangan kirim informasi rahasia, informasi pribadi sensitif yang tidak perlu, atau materi yang tidak berhak kamu bagikan."
+          },
+          {
+            "type": "callout",
+            "html": "Game masih terus disempurnakan. Deskripsi tentang kemungkinan arah pengembangan di masa depan bukan janji mengenai fitur, tanggal rilis, kompatibilitas, atau ketersediaan berkelanjutan tertentu."
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "toc": "Pembaruan dan ketersediaan",
+        "title": "8. Pembaruan dan ketersediaan",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Pembaruan dapat memperbaiki masalah, menyesuaikan keseimbangan atau permainan, mengubah kompatibilitas, serta menambahkan, mengubah, atau menghapus konten. Beberapa pembaruan mungkin diperlukan untuk terus menggunakan versi yang didukung. Fitur yang dijelaskan di situs web hanya berlaku untuk versi yang disebutkan di sana atau di aplikasi."
+          },
+          {
+            "type": "p",
+            "html": "Kami dapat menangguhkan, menghentikan, atau berhenti mendukung game, situs web, atau versi tertentu karena alasan pemeliharaan, keamanan, hukum, operasional, atau pengembangan. Jika memungkinkan, perubahan penting akan disampaikan melalui aplikasi, situs web, atau platform distribusi."
+          }
+        ]
+      },
+      {
+        "id": "disclaimer",
+        "toc": "Penafian",
+        "title": "9. Penafian",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Sejauh diizinkan oleh hukum yang berlaku, game dan situs web disediakan “sebagaimana adanya” dan “sebagaimana tersedia”, tanpa jaminan yang tidak dinyatakan secara tegas. Kami tidak menjamin pengoperasian tanpa gangguan atau bebas kesalahan, bahwa setiap cacat akan diperbaiki, atau bahwa game akan memenuhi setiap preferensi maupun berfungsi di setiap perangkat."
+          },
+          {
+            "type": "p",
+            "html": "Tidak ada bagian dalam ketentuan ini yang mengecualikan jaminan konsumen, garansi, atau hak lain yang tidak dapat dikecualikan secara sah. Kamu bertanggung jawab atas pemeliharaan perangkatmu dan setiap solusi pencadangan terpisah yang kamu pilih untuk digunakan."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "toc": "Tanggung jawab",
+        "title": "10. Batasan tanggung jawab",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Sejauh diizinkan oleh hukum yang berlaku, pengembang tidak bertanggung jawab atas kerugian tidak langsung, insidental, khusus, konsekuensial, atau punitif, maupun atas hilangnya progres yang tersimpan secara lokal akibat penggantian perangkat, penghapusan, pencopotan, atau tidak dilakukannya pencadangan terpisah."
+          },
+          {
+            "type": "p",
+            "html": "Batasan ini tidak mengecualikan atau membatasi tanggung jawab atas kematian atau cedera diri yang disebabkan oleh kelalaian, penipuan atau pernyataan keliru yang menipu, maupun tanggung jawab lain yang tidak dapat dikecualikan atau dibatasi secara sah. Hak konsumenmu berdasarkan undang-undang tetap tidak terpengaruh."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "toc": "Pengakhiran",
+        "title": "11. Penangguhan dan pengakhiran",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Kamu dapat berhenti menggunakan game kapan saja dengan mencopotnya. Kami dapat membatasi atau mengakhiri lisensi jika kamu melakukan pelanggaran material terhadap ketentuan ini, atau jika diperlukan untuk keamanan, kepatuhan hukum, atau perlindungan game maupun orang lain, dengan tunduk pada hukum yang berlaku."
+          },
+          {
+            "type": "p",
+            "html": "Saat lisensi berakhir, kamu harus berhenti menggunakan aplikasi dan menghapus salinan yang tersisa, kecuali jika hukum mengizinkan sebaliknya. Ketentuan mengenai kekayaan intelektual, masukan, penafian, tanggung jawab, serta hak atau kewajiban yang telah timbul tetap berlaku sejauh sesuai."
+          }
+        ]
+      },
+      {
+        "id": "general",
+        "toc": "Ketentuan umum",
+        "title": "12. Ketentuan umum",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Jika suatu ketentuan dinyatakan tidak dapat ditegakkan, ketentuan tersebut akan ditegakkan sejauh yang diizinkan hukum dan ketentuan lainnya tetap berlaku. Kegagalan atau keterlambatan menegakkan suatu ketentuan bukan merupakan pengesampingan. Kamu tidak boleh mengalihkan lisensi ini tanpa izin; pengembang dapat mengalihkan hak atau kewajiban sehubungan dengan pengalihan game, dengan tunduk pada hukum yang berlaku."
+          },
+          {
+            "type": "p",
+            "html": "Ketentuan ini dan kebijakan privasi membentuk perjanjian antara kamu dan pengembang mengenai game saat ini, tanpa mengecualikan hak atau kewajiban wajib berdasarkan hukum yang berlaku. Versi terjemahan disediakan demi kemudahan dan harus dibaca bersama dengan versi serta tanggal berlaku yang ditunjukkan di atas."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Kontak",
+        "title": "13. Kontak",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Jika kamu memiliki pertanyaan tentang game, ketentuan ini, atau situs web, hubungi pengembang di:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Harap sertakan versi aplikasimu dan deskripsi masalah yang jelas. Permintaan dukungan juga tunduk pada penanganan data yang dijelaskan dalam kebijakan privasi."
+          }
+        ]
+      }
+    ]
+  }
+}

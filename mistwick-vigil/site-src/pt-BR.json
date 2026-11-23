@@ -1,0 +1,580 @@
+{
+  "code": "pt-BR",
+  "htmlLang": "pt-BR",
+  "dir": "ltr",
+  "name": "Português (Brasil)",
+  "suffix": "-pt-br",
+  "common": {
+    "skip": "Pular para o conteúdo principal",
+    "homeAria": "Casa da Mistwick Vigil",
+    "tagline": "Segure a luz",
+    "mainNav": "Navegação principal",
+    "footerNav": "Navegação no rodapé",
+    "language": "Idioma",
+    "features": "Recursos",
+    "watch": "Como jogar",
+    "world": "O mundo",
+    "support": "Suporte",
+    "legal": "Privacidade e termos",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "supportEmail": "E-mail de suporte",
+    "backHome": "Voltar ao site"
+  },
+  "home": {
+    "title": "Mistwick Vigil – Ação de sobrevivência offline",
+    "description": "Mistwick Vigil é um jogo de ação de sobrevivência offline para um jogador. Escolha um vigia, carregue uma lanterna na neblina e fique de pé até o amanhecer.",
+    "keywords": "Mistwick Vigil, jogo offline, jogo para um jogador, jogo de ação de sobrevivência, jogo para Android",
+    "ogTitle": "Mistwick Vigil – Mantenha a luz durante a noite",
+    "ogDescription": "Uma lanterna. Uma noite. Escolha um vigia e encontre seu caminho em vigílias noturnas curtas e tensas.",
+    "ogAlt": "Um vigia com uma lanterna se aproximando de um portão de montanha na chuva",
+    "structuredDescription": "Um jogo de ação de sobrevivência offline para um jogador.",
+    "hero": {
+      "kicker": "Uma lanterna na névoa",
+      "title": "Mistwick",
+      "subtitle": "Vigil",
+      "lede": "Uma lanterna. Uma noite. Fique até o amanhecer.",
+      "note": "Quando a névoa sobe, as criaturas descem os degraus de pedra. Escolha um vigia, entre na montanha e encontre o caminho através de vigílias noturnas curtas e tensas.",
+      "primary": "Explorar o jogo",
+      "secondary": "Leia a política de privacidade",
+      "imageAlt": "Um vigia carregando uma lanterna em direção a um portão de montanha na chuva",
+      "factsLabel": "Visão geral do jogo",
+      "facts": [
+        {
+          "value": "Off-line",
+          "label": "Jogo principal sem conta"
+        },
+        {
+          "value": "30",
+          "label": "vigias"
+        },
+        {
+          "value": "3",
+          "label": "rotas de campanha"
+        },
+        {
+          "value": "13",
+          "label": "idiomas do jogo"
+        }
+      ],
+      "scroll": "Entre no relógio"
+    },
+    "features": {
+      "kicker": "Um jogo tranquilo de sobrevivência",
+      "title": "Leve uma pequena luz durante toda a noite.",
+      "lede": "Escolha um vigia, percorra a horda, acumule experiência e molde cada corrida por meio de bênçãos e avanços. Cada atualização é uma troca; a próxima onda coloca isso à prova.",
+      "cards": [
+        {
+          "symbol": "◈",
+          "title": "Escolha sua arma",
+          "html": "De lâminas e lanças a ganchos, chicotes, martelos e martelos de meteoros, <strong>30 vigias</strong> trazem diferentes alcances, ritmos e formas de ataque."
+        },
+        {
+          "symbol": "☼",
+          "title": "Deixe as bênçãos moldarem uma corrida",
+          "html": "Escolha uma das três bênçãos cada vez que subir de nível. Ataque, chance crítica, alcance, movimento e sobrevivência levam sua construção em diferentes direções."
+        },
+        {
+          "symbol": "✦",
+          "title": "Aguente cada amanhecer",
+          "html": "Uma batalha de guarda acontece a cada cinco etapas. Derrote todos os guardas na rota atual para avançar e caminhar mais fundo na montanha."
+        }
+      ]
+    },
+    "watch": {
+      "kicker": "A forma de um relógio",
+      "title": "Cada relógio começa com uma lanterna.",
+      "lede": "Seu personagem ataca automaticamente, deixando sua atenção livre para posicionamento, tempo e próxima decisão na névoa.",
+      "stepsLabel": "Três estágios de uma vigília noturna",
+      "steps": [
+        {
+          "title": "Escolha um vigilante",
+          "text": "Selecione uma função disponível e sua forma de lutar, depois escolha a rota onde iluminará o primeiro caminho."
+        },
+        {
+          "title": "Faça concessões na horda",
+          "text": "Colete experiência e equipamentos e escolha bênçãos que gradualmente moldam uma construção em torno de sua arma e situação."
+        },
+        {
+          "title": "Romper a batalha da guarda",
+          "text": "Derrote todos os guardas na arena para quebrar o bloqueio do palco. Termine a batalha final para completar a rota."
+        }
+      ]
+    },
+    "world": {
+      "kicker": "Caminhos através da névoa",
+      "title": "A montanha lembra cada passo.",
+      "lede": "Desde pátios de pedra iluminados pela chuva até águas ladeadas por juncos, cada rota se abre um pouco mais longe. Cada avanço dá à próxima lanterna um ponto de partida.",
+      "cards": [
+        {
+          "label": "01 · A primeira luz",
+          "title": "Na névoa",
+          "text": "Uma escada de pedra brilhante como a chuva que atravessa o portão da montanha.",
+          "imageAlt": "Um caminho de montanha iluminado pela chuva e um vigia com uma lanterna"
+        },
+        {
+          "label": "02 · A arena",
+          "title": "Matriz de pedra",
+          "text": "Antes que os guardas cheguem, a campainha toca.",
+          "imageAlt": "Uma arena circular de pedra cercada por lanternas e folhas de outono"
+        },
+        {
+          "label": "03 · Além do amanhecer",
+          "title": "Relógio sem fim",
+          "text": "Depois que a rota fica livre, a horda continua subindo em meio à névoa.",
+          "imageAlt": "Degraus de pedra desaparecendo em uma floresta montanhosa enevoada"
+        }
+      ]
+    },
+    "support": {
+      "kicker": "Fique na luz",
+      "title": "Precisa de ajuda ou quer deixar comentários?",
+      "lede": "Mistwick Vigil está focado em uma experiência offline para um jogador. Ao relatar um problema, inclua o modelo do seu dispositivo, a versão do Android, a versão do aplicativo e as etapas que levaram a isso. Por favor, não inclua informações pessoais confidenciais.",
+      "items": [
+        {
+          "label": "E-mail de suporte",
+          "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+        },
+        {
+          "label": "Salvamentos locais",
+          "html": "<p>As configurações, os desbloqueios e o progresso permanecem no seu dispositivo. Limpar o armazenamento do aplicativo ou desinstalar o aplicativo os remove; eles não estão sincronizados com a nuvem.</p>"
+        },
+        {
+          "label": "Uso de rede",
+          "html": "<p>A jogabilidade principal funciona offline. A abertura da política de privacidade ou dos termos hospedados remotamente requer uma conexão com a Internet.</p>"
+        },
+        {
+          "label": "Jurídico e privacidade",
+          "html": "<p>Leia a <a href=\"{{privacy}}\">política de privacidade</a> e os <a href=\"{{service}}\">termos de serviço</a> da versão atual.</p>"
+        }
+      ]
+    },
+    "closing": {
+      "title": "A névoa não se dissipou. A lanterna está acesa.",
+      "text": "Mistwick Vigil ainda está sendo refinado. Este site e suas páginas legais crescerão com o jogo.",
+      "primary": "Leia os termos",
+      "secondary": "Entre em contato com o desenvolvedor"
+    }
+  },
+  "privacy": {
+    "title": "Política de privacidade · Mistwick Vigil",
+    "description": "Política de privacidade para o aplicativo e site Mistwick Vigil Android, incluindo salvamentos locais, seleção de idioma do sistema e páginas jurídicas remotas.",
+    "ogDescription": "Como o Mistwick Vigil lida com dados de jogos locais, seleção de idioma do dispositivo e páginas jurídicas hospedadas remotamente.",
+    "kicker": "Mistwick Vigil · Privacidade",
+    "heading": "Política de privacidade",
+    "subtitle": "Esta política explica o que o aplicativo Mistwick Vigil atual armazena em seu dispositivo, como ele seleciona o idioma inicial e o que acontece quando você abre esta página hospedada remotamente.",
+    "meta": [
+      "Versão do documento 1.1",
+      "Em vigor a partir de 23 de novembro de 2026",
+      "Aplica-se ao aplicativo Android e a este site"
+    ],
+    "tocTitle": "Nesta página",
+    "sections": [
+      {
+        "id": "overview",
+        "toc": "Visão geral",
+        "title": "1. Visão geral e escopo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Mistwick Vigil é um jogo para um jogador projetado para jogabilidade offline. O desenvolvedor é o responsável pelo aplicativo e pode ser contatado através do endereço de e-mail na seção <a href=\"#contact\">Contato</a>."
+          },
+          {
+            "type": "p",
+            "html": "Esta política se aplica ao aplicativo Mistwick Vigil para Android e às páginas específicas do jogo neste site. Descreve a versão atual; não cobre aplicativos ou sites não relacionados vinculados a uma loja, aplicativo de e-mail ou navegador."
+          },
+          {
+            "type": "callout",
+            "html": "<strong>Resumindo:</strong> o aplicativo não possui sistema de contas, publicidade, análise comportamental ou compras no aplicativo. As configurações de jogo e o progresso são armazenados localmente. Não operamos um servidor de jogo que receba seus dados salvos."
+          }
+        ]
+      },
+      {
+        "id": "local-data",
+        "toc": "Dados locais",
+        "title": "2. Informações armazenadas no seu dispositivo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Para restaurar sua experiência, o aplicativo pode armazenar as seguintes informações no armazenamento local do aplicativo:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Seu idioma de interface selecionado, níveis de áudio, configurações de som, controles e preferências de exibição.",
+              "Seu vigia e rota selecionados, rotas ou funções desbloqueadas, melhores resultados e outros progressos de jogo suportados.",
+              "As versões ou estado de confirmação de divulgações no aplicativo e documentos legais, onde o aplicativo as registra."
+            ]
+          },
+          {
+            "type": "p",
+            "html": "Essas informações são usadas apenas para fornecer e restaurar a funcionalidade do aplicativo local. Não é um perfil de conta remota. O jogo atual não pede que você forneça seu nome, localização precisa, contatos, fotos ou detalhes de pagamento."
+          }
+        ]
+      },
+      {
+        "id": "language",
+        "toc": "Idioma do dispositivo",
+        "title": "3. Seleção inicial do idioma do dispositivo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Na primeira inicialização, o aplicativo lê as preferências de idioma fornecidas pelo Android para escolher um idioma de interface compatível. Se o seu idioma preferido não for compatível, o aplicativo usará o inglês. Depois de escolher manualmente um idioma, essa seleção será salva localmente e terá prioridade em inicializações posteriores."
+          },
+          {
+            "type": "p",
+            "html": "A preferência de idioma é usada para apresentação da interface e não nos é transmitida pelo jogo principal."
+          }
+        ]
+      },
+      {
+        "id": "network",
+        "toc": "Rede e páginas jurídicas",
+        "title": "4. Uso da rede e páginas jurídicas remotas",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "A jogabilidade principal não requer conexão com a Internet. Os links da política de privacidade e dos termos do aplicativo apontam para páginas hospedadas nas páginas do GitHub, portanto, essas páginas precisam de uma conexão com a Internet e podem estar indisponíveis se o seu dispositivo ou serviço de hospedagem estiver offline."
+          },
+          {
+            "type": "p",
+            "html": "Quando você opta por abrir uma página jurídica remota, seu navegador ou WebView faz uma solicitação da web padrão para GitHub Pages. O GitHub pode processar informações técnicas de conexão, como seu endereço IP, URL solicitado, carimbo de data/hora e cabeçalhos de navegador ou dispositivo, para fornecer e proteger seu serviço. O aplicativo não adiciona seus dados salvos a esses links."
+          },
+          {
+            "type": "p",
+            "html": "Este site não utiliza publicidade, scripts analíticos, pixels de rastreamento ou cookies definidos por nós. Seu navegador, provedor de rede e páginas do GitHub têm suas próprias práticas de dados."
+          }
+        ]
+      },
+      {
+        "id": "third-parties",
+        "toc": "Terceiros",
+        "title": "5. Serviços de terceiros e links externos",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Não integramos redes de publicidade, provedores de análise comportamental, processadores de pagamento, serviços de login social ou back-end de jogo operado por desenvolvedor no aplicativo atual."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages hospeda este site e seus documentos legais. Uma loja de aplicativos pode processar informações quando você navega, baixa, instala ou atualiza o aplicativo de acordo com seus próprios termos de privacidade. Se você escolher um link de e-mail, seu aplicativo e provedor de e-mail processarão a mensagem e seu conteúdo."
+          },
+          {
+            "type": "p",
+            "html": "O desenvolvedor não vende nem aluga informações pessoais. Nenhuma informação pessoal é compartilhada pelo jogo principal com o desenvolvedor ou terceiros para publicidade ou criação de perfil comportamental."
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "toc": "Retenção e exclusão",
+        "title": "6. Retenção e exclusão",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "As configurações locais e o progresso permanecem no seu dispositivo até que você limpe o armazenamento do aplicativo nas configurações do Android ou desinstale o aplicativo. Qualquer uma das ações exclui as configurações, desbloqueios, resultados e progresso do aplicativo armazenados localmente. Faça backup de tudo o que seu dispositivo ou loja de aplicativos oferece separadamente, se quiser mantê-lo; o jogo em si não fornece sincronização para salvar na nuvem."
+          },
+          {
+            "type": "p",
+            "html": "Uma observação ativa não é carregada em um servidor de desenvolvedor quando o aplicativo é encerrado. As informações processadas de forma independente pelo GitHub, uma loja de aplicativos ou seu provedor de e-mail são retidas de acordo com as políticas desse provedor."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "toc": "Segurança",
+        "title": "7. Segurança",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Manter os dados do jogo no armazenamento local do aplicativo reduz a necessidade de transmiti-los. As páginas jurídicas remotas são veiculadas por HTTPS. Nenhum método de armazenamento ou transmissão é totalmente seguro, portanto, mantenha seu dispositivo e sistema operacional atualizados e use as proteções de acesso disponíveis no dispositivo."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "toc": "Crianças",
+        "title": "8. Privacidade das crianças",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "O aplicativo atual não coleta intencionalmente informações pessoais de crianças por meio de registro de conta, publicidade, análise ou servidor de jogo. Os pais e responsáveis ​​devem supervisionar o uso que a criança faz de links remotos da Web e de e-mail, quando apropriado. Se você acredita que informações pessoais nos foram enviadas desnecessariamente, entre em contato conosco para que possamos revisá-las e excluí-las de nossos próprios registros, quando necessário."
+          }
+        ]
+      },
+      {
+        "id": "rights",
+        "toc": "Suas escolhas e direitos",
+        "title": "9. Suas escolhas e direitos de privacidade",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Você pode jogar o jogo principal sem criar uma conta, alterar o idioma da interface do aplicativo, evitar abrir páginas remotas ou links de e-mail e excluir dados locais usando os controles do Android."
+          },
+          {
+            "type": "p",
+            "html": "Dependendo da lei aplicável, você poderá ter direitos em relação às informações pessoais que nos enviou voluntariamente, como um e-mail de suporte. Você pode entrar em contato conosco para solicitar acesso, correção ou exclusão de informações em nossos próprios registros, sujeito a obrigações legais de retenção e necessidades de verificação. As informações mantidas na plataforma ou no GitHub devem ser abordadas por meio do fornecedor relevante."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "toc": "Mudanças de política",
+        "title": "10. Mudanças nesta política",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Poderemos atualizar esta política quando os recursos, a hospedagem ou as práticas de dados do aplicativo mudarem. A versão do documento e a data de vigência na parte superior identificam o texto atual. Alterações materiais serão apresentadas no aplicativo ou neste site, quando apropriado. A utilização continuada após uma atualização está sujeita à política revista, exceto quando a lei aplicável exigir uma forma diferente de notificação ou consentimento."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Contato",
+        "title": "11. Contato",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Para questões de privacidade, suporte ou uma solicitação relativa a informações enviadas ao desenvolvedor, entre em contato com:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Inclua a versão do aplicativo e detalhes suficientes para entender sua solicitação, mas não envie senhas, detalhes de pagamento ou informações confidenciais desnecessárias."
+          }
+        ]
+      }
+    ]
+  },
+  "service": {
+    "title": "Termos de serviço · Mistwick Vigil",
+    "description": "Termos de serviço do Mistwick Vigil, cobrindo a licença do aplicativo, uso aceitável, progresso local, atualizações e páginas jurídicas externas.",
+    "ogDescription": "A licença do aplicativo, regras de uso aceitáveis, progresso local e termos de atualização do Mistwick Vigil.",
+    "kicker": "Mistwick Vigil · Termos",
+    "heading": "Termos de serviço",
+    "subtitle": "Estes termos regem o uso do aplicativo e site do jogo Mistwick Vigil para Android atual. Leia-os antes de instalar, acessar ou usar o jogo.",
+    "meta": [
+      "Versão do documento 1.1",
+      "Em vigor a partir de 23 de novembro de 2026",
+      "Aplica-se ao aplicativo Android e a este site"
+    ],
+    "tocTitle": "Nesta página",
+    "sections": [
+      {
+        "id": "acceptance",
+        "toc": "Aceitação e escopo",
+        "title": "1. Aceitação e escopo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Ao instalar, acessar ou usar o Mistwick Vigil, você concorda com estes termos e com a <a href=\"{{privacy}}\">política de privacidade</a>. Se você não concordar, não instale ou use o aplicativo e desinstale qualquer cópia que já esteja em seu dispositivo."
+          },
+          {
+            "type": "p",
+            "html": "Nestes termos, “jogo” inclui o aplicativo e suas cenas, imagens, áudio, texto e código agrupados. “Site” significa as páginas do Mistwick Vigil hospedadas em <a href=\"{{home}}\">zouyongzhen.github.io/mistwick-vigil/</a>. Os termos da App Store também podem ser aplicados ao download e ao uso do aplicativo."
+          }
+        ]
+      },
+      {
+        "id": "eligibility",
+        "toc": "Elegibilidade",
+        "title": "2. Elegibilidade e supervisão",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Você deve ter a capacidade legal necessária para aceitar estes termos em sua jurisdição. Se você for menor de idade ou precisar de permissão, um dos pais ou responsável legal deverá revisar e concordar com estes termos e supervisionar seu uso quando exigido pela lei aplicável."
+          },
+          {
+            "type": "p",
+            "html": "Você é responsável por cumprir as leis, as regras da loja de aplicativos e os requisitos do dispositivo que se aplicam a você."
+          }
+        ]
+      },
+      {
+        "id": "license",
+        "toc": "Licença do aplicativo",
+        "title": "3. Licença limitada do aplicativo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Sujeito a estes termos, o desenvolvedor concede a você uma licença pessoal, limitada, não exclusiva, intransferível, não sublicenciável e revogável para instalar e usar o aplicativo atual em dispositivos que você possui ou controla, exclusivamente para entretenimento pessoal."
+          },
+          {
+            "type": "p",
+            "html": "Esta licença não transfere a propriedade do jogo ou de seu conteúdo. Os direitos não concedidos expressamente são reservados ao desenvolvedor e aos detentores de direitos relevantes. Quaisquer direitos legais que não possam ser legalmente limitados permanecem inalterados."
+          }
+        ]
+      },
+      {
+        "id": "use",
+        "toc": "Uso aceitável",
+        "title": "4. Uso aceitável",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Você pode ajustar as configurações suportadas, escolher vigilantes, jogar rotas de campanha disponíveis e relógios infinitos e usar os recursos atuais do jogo para entretenimento pessoal."
+          },
+          {
+            "type": "p",
+            "html": "Você não deve:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Usar o jogo ou site para violar a lei, infringir os direitos de outra pessoa, distribuir código malicioso ou interferir na operação ou na segurança de um serviço ou dispositivo.",
+              "Copiar, redistribuir, vender, alugar, sublicenciar, exibir publicamente ou explorar comercialmente o conteúdo protegido do jogo sem autorização, exceto quando a lei aplicável permitir expressamente.",
+              "Remover avisos de direitos, ignorar a proteção técnica ou deturpar cópias modificadas ou não oficiais como sendo o jogo oficial.",
+              "Faça engenharia reversa ou extraia código ou ativos do jogo, exceto na medida limitada em que tal restrição seja proibida pela lei aplicável."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "toc": "Progresso local",
+        "title": "5. Configurações locais e progresso",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Configurações, desbloqueios, melhores resultados e outros progressos suportados são armazenados localmente no dispositivo atual. Eles não são sincronizados automaticamente com uma conta ou serviço em nuvem, e o desenvolvedor não pode restaurá-los a partir de um servidor de jogo."
+          },
+          {
+            "type": "p",
+            "html": "Limpar dados de aplicativos, desinstalar o jogo, trocar de dispositivo ou determinadas ações do sistema operacional podem excluir ou tornar o progresso local inacessível. Uma observação ativa pode terminar quando o aplicativo fecha ou é interrompido, e o progresso que não foi salvo localmente não pode ser recuperado."
+          }
+        ]
+      },
+      {
+        "id": "external",
+        "toc": "Rede e serviços externos",
+        "title": "6. Uso de rede e serviços externos",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "A jogabilidade principal foi projetada para funcionar offline. A abertura da política ou dos termos de privacidade hospedados remotamente requer uma conexão com a Internet. Não garantimos que as páginas remotas estarão sempre disponíveis ou serão compatíveis com todos os navegadores, WebView, redes ou dispositivos."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages, lojas de aplicativos, navegadores e provedores de e-mail são serviços de terceiros com seus próprios termos e práticas de privacidade. Não somos responsáveis ​​por conteúdos ou serviços de terceiros que não controlamos. Um link é fornecido por conveniência e não transfere a responsabilidade pelas operações independentes de terceiros."
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "toc": "Conteúdo e comentários",
+        "title": "7. Conteúdo e feedback do jogo",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "O jogo, o site, o design visual, as imagens, o áudio, o texto e o código são fornecidos pelo desenvolvedor ou pelos detentores de direitos relevantes e são protegidos pelas leis de propriedade intelectual aplicáveis."
+          },
+          {
+            "type": "p",
+            "html": "Se você enviar voluntariamente sugestões, relatórios de bugs ou outros comentários, você permitirá que o desenvolvedor use esses comentários sem restrição ou pagamento para operar, melhorar e desenvolver o jogo, desde que isso não conceda a propriedade de seus materiais pessoais não relacionados. Não envie informações confidenciais, informações pessoais sensíveis desnecessárias ou materiais que você não tem o direito de compartilhar."
+          },
+          {
+            "type": "callout",
+            "html": "O jogo ainda está sendo refinado. As descrições de possíveis direções futuras não são promessas de um recurso específico, data de lançamento, compatibilidade ou disponibilidade contínua."
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "toc": "Atualizações e disponibilidade",
+        "title": "8. Atualizações e disponibilidade",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "As atualizações podem corrigir problemas, ajustar o equilíbrio ou a jogabilidade, alterar a compatibilidade e adicionar, modificar ou remover conteúdo. Algumas atualizações podem ser necessárias para continuar usando uma versão compatível. As funcionalidades descritas no website aplicam-se apenas à versão aí identificada ou na aplicação."
+          },
+          {
+            "type": "p",
+            "html": "Podemos suspender, descontinuar ou parar de oferecer suporte ao jogo, ao site ou a uma versão específica por motivos de manutenção, segurança, legais, operacionais ou de desenvolvimento. Sempre que possível, as alterações materiais serão comunicadas através do aplicativo, site ou plataforma de distribuição."
+          }
+        ]
+      },
+      {
+        "id": "disclaimer",
+        "toc": "Isenções de responsabilidade",
+        "title": "9. Isenções de responsabilidade",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Na extensão máxima permitida pela lei aplicável, o jogo e o site são fornecidos “como estão” e “conforme disponíveis”, sem garantias que não sejam expressamente declaradas. Não garantimos uma operação ininterrupta ou livre de erros, que todos os defeitos serão corrigidos ou que o jogo atenderá a todas as preferências ou funcionará em todos os dispositivos."
+          },
+          {
+            "type": "p",
+            "html": "Nada nestes termos exclui uma garantia do consumidor, garantia ou outro direito que não possa ser legalmente excluído. Você é responsável pela manutenção do seu dispositivo e por qualquer solução de backup separada que escolher usar."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "toc": "Responsabilidade",
+        "title": "10. Limitação de responsabilidade",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Na extensão máxima permitida pela lei aplicável, o desenvolvedor não será responsável por danos indiretos, incidentais, especiais, consequenciais ou punitivos, ou pela perda do progresso armazenado localmente resultante de alterações, exclusão, desinstalação do dispositivo ou falha em manter um backup separado."
+          },
+          {
+            "type": "p",
+            "html": "Estas limitações não excluem ou limitam a responsabilidade por morte ou danos pessoais causados por negligência, fraude ou deturpação fraudulenta, ou qualquer outra responsabilidade que não possa ser legalmente excluída ou limitada. Os seus direitos legais do consumidor permanecem inalterados."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "toc": "Rescisão",
+        "title": "11. Suspensão e rescisão",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Você pode parar de usar o jogo a qualquer momento, desinstalando-o. Poderemos restringir ou rescindir a licença se você violar materialmente estes termos ou quando necessário para segurança, conformidade legal ou proteção do jogo ou de outros, sujeito à lei aplicável."
+          },
+          {
+            "type": "p",
+            "html": "Quando a licença terminar, você deverá parar de usar o aplicativo e excluir as cópias restantes, exceto quando a lei permitir o contrário. As disposições relativas à propriedade intelectual, feedback, isenções de responsabilidade, responsabilidade e direitos ou obrigações acumulados sobrevivem na medida apropriada."
+          }
+        ]
+      },
+      {
+        "id": "general",
+        "toc": "Termos gerais",
+        "title": "12. Termos gerais",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Se uma disposição for considerada inexequível, ela será aplicada na máxima extensão legal e as restantes disposições continuarão em vigor. Uma falha ou atraso na aplicação de uma disposição não é uma renúncia. Você não pode transferir esta licença sem autorização; o desenvolvedor pode ceder direitos ou obrigações relacionados à transferência do jogo, sujeito à lei aplicável."
+          },
+          {
+            "type": "p",
+            "html": "Estes termos e a política de privacidade constituem o acordo entre você e o desenvolvedor sobre o jogo atual, sem excluir direitos ou obrigações obrigatórios sob a lei aplicável. Versões traduzidas são fornecidas por conveniência e devem ser lidas juntamente com a versão e a data de vigência mostradas acima."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Contato",
+        "title": "13. Contato",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Se você tiver alguma dúvida sobre o jogo, estes termos ou o site, entre em contato com o desenvolvedor em:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Inclua a versão do seu aplicativo e uma descrição clara do problema. Os pedidos de suporte também estão sujeitos ao tratamento de dados descrito na política de privacidade."
+          }
+        ]
+      }
+    ]
+  }
+}

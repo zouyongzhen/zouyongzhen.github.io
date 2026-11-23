@@ -1,0 +1,580 @@
+{
+  "code": "de",
+  "htmlLang": "de",
+  "dir": "ltr",
+  "name": "Deutsch",
+  "suffix": "-de",
+  "common": {
+    "skip": "Zum Hauptinhalt springen",
+    "homeAria": "Startseite von Mistwick Vigil",
+    "tagline": "Bewahre das Licht",
+    "mainNav": "Hauptnavigation",
+    "footerNav": "Navigation im Fußbereich",
+    "language": "Sprache",
+    "features": "Funktionen",
+    "watch": "Spielanleitung",
+    "world": "Die Welt",
+    "support": "Support",
+    "legal": "Datenschutz und Nutzungsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "supportEmail": "E-Mail-Adresse des Supports",
+    "backHome": "Zurück zur Website"
+  },
+  "home": {
+    "title": "Mistwick Vigil — Offline-Survival-Action",
+    "description": "Mistwick Vigil ist ein Offline-Survival-Actionspiel für Einzelspieler. Wähle einen Wächter, trage eine Laterne in den Nebel und halte bis zum Morgengrauen durch.",
+    "keywords": "Mistwick Vigil,Offline-Spiel,Einzelspielerspiel,Survival-Actionspiel,Android-Spiel",
+    "ogTitle": "Mistwick Vigil — Bewahre das Licht durch die Nacht",
+    "ogDescription": "Eine Laterne. Eine Nacht. Wähle einen Wächter und finde deinen Weg durch kurze, packende Nachtwachen.",
+    "ogAlt": "Ein Wächter mit einer Laterne nähert sich im Regen einem Bergtor",
+    "structuredDescription": "Ein Offline-Survival-Actionspiel für Einzelspieler.",
+    "hero": {
+      "kicker": "Eine Laterne im Nebel",
+      "title": "Mistwick",
+      "subtitle": "Vigil",
+      "lede": "Eine Laterne. Eine Nacht. Halte bis zum Morgengrauen durch.",
+      "note": "Wenn der Nebel aufsteigt, kommen Kreaturen die steinernen Stufen herab. Wähle einen Wächter, betritt den Berg und finde deinen Weg durch kurze, packende Nachtwachen.",
+      "primary": "Entdecke das Spiel",
+      "secondary": "Datenschutzerklärung lesen",
+      "imageAlt": "Ein Wächter trägt im Regen eine Laterne zu einem Bergtor",
+      "factsLabel": "Spielübersicht",
+      "facts": [
+        {
+          "value": "Offline",
+          "label": "Kernspiel ohne Konto"
+        },
+        {
+          "value": "30",
+          "label": "Wächter"
+        },
+        {
+          "value": "3",
+          "label": "Kampagnenrouten"
+        },
+        {
+          "value": "13",
+          "label": "Sprachen"
+        }
+      ],
+      "scroll": "Beginne die Wacht"
+    },
+    "features": {
+      "kicker": "Ein stilles Spiel ums Überleben",
+      "title": "Trage ein kleines Licht durch die ganze Nacht.",
+      "lede": "Wähle einen Wächter, bewege dich durch die Horde, sammle Erfahrung und gestalte jeden Lauf mit Segen und Durchbrüchen. Jede Verbesserung ist eine Abwägung; die nächste Welle stellt sie auf die Probe.",
+      "cards": [
+        {
+          "symbol": "◈",
+          "title": "Wähle deine Waffe",
+          "html": "Von Klingen und Speeren bis zu Haken, Peitschen, Hämmern und Meteorhämmern bieten <strong>30 Wächter</strong> unterschiedliche Reichweiten, Rhythmen und Angriffsformen."
+        },
+        {
+          "symbol": "☼",
+          "title": "Lass Segen den Lauf formen",
+          "html": "Wähle bei jedem Stufenaufstieg einen von drei Segen. Angriff, kritische Chance, Reichweite, Bewegung und Überleben lenken deinen Build in verschiedene Richtungen."
+        },
+        {
+          "symbol": "✦",
+          "title": "Halte bis zu jedem Morgen durch",
+          "html": "Alle fünf Etappen erwartet dich ein Kampf gegen Wachposten. Besiege alle Wachposten auf der aktuellen Route, um den Durchbruch zu schaffen und tiefer in den Berg vorzudringen."
+        }
+      ]
+    },
+    "watch": {
+      "kicker": "Der Ablauf einer Wacht",
+      "title": "Jede Wacht beginnt mit einer Laterne.",
+      "lede": "Deine Figur greift automatisch an. So kannst du dich ganz auf Positionierung, Timing und die nächste Entscheidung im Nebel konzentrieren.",
+      "stepsLabel": "Drei Phasen einer Nachtwache",
+      "steps": [
+        {
+          "title": "Wähle einen Wächter",
+          "text": "Wähle eine verfügbare Rolle und ihre Kampfweise und danach die Route, auf der du den ersten Pfad erleuchten wirst."
+        },
+        {
+          "title": "Triff Abwägungen in der Horde",
+          "text": "Sammle Erfahrung und Ausrüstung und wähle Segen, die nach und nach einen Build rund um deine Waffe und deine Situation formen."
+        },
+        {
+          "title": "Schaffe den Durchbruch im Wachpostenkampf",
+          "text": "Besiege alle Wachposten in der Arena, um die Etappensperre zu brechen. Gewinne den letzten Kampf, um die Route abzuschließen."
+        }
+      ]
+    },
+    "world": {
+      "kicker": "Pfade durch den Nebel",
+      "title": "Der Berg erinnert sich an jeden Schritt.",
+      "lede": "Von regnerhellen Steinhöfen bis zu schilfgesäumten Gewässern öffnet sich jede Route ein Stück weiter. Jeder Vorstoß gibt der nächsten Laterne einen Ausgangspunkt.",
+      "cards": [
+        {
+          "label": "01 · Das erste Licht",
+          "title": "In den Nebel",
+          "text": "Eine im Regen schimmernde Steintreppe führt durch das Bergtor.",
+          "imageAlt": "Ein regnerheller Bergpfad und ein Wächter mit einer Laterne"
+        },
+        {
+          "label": "02 · Die Arena",
+          "title": "Steinerner Kreis",
+          "text": "Bevor die Wachposten erscheinen, erklingt die Glocke.",
+          "imageAlt": "Eine kreisförmige Steinarena, umgeben von Laternen und Herbstlaub"
+        },
+        {
+          "label": "03 · Jenseits des Morgens",
+          "title": "Endlose Wacht",
+          "text": "Nachdem die Route bezwungen ist, strömt die Horde weiter durch den Nebel.",
+          "imageAlt": "Steinstufen, die in einem nebligen Bergwald verschwinden"
+        }
+      ]
+    },
+    "support": {
+      "kicker": "Bleib im Licht",
+      "title": "Brauchst du Hilfe oder möchtest du Feedback geben?",
+      "lede": "Mistwick Vigil konzentriert sich auf ein Offline-Erlebnis für Einzelspieler. Wenn du ein Problem meldest, gib bitte dein Gerätemodell, deine Android-Version, deine App-Version und die Schritte an, die dazu geführt haben. Sende bitte keine sensiblen persönlichen Daten.",
+      "items": [
+        {
+          "label": "E-Mail-Adresse des Supports",
+          "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+        },
+        {
+          "label": "Lokale Spielstände",
+          "html": "<p>Einstellungen, Freischaltungen und Fortschritt bleiben auf deinem Gerät. Wenn du den App-Speicher löschst oder die App deinstallierst, werden sie entfernt; sie werden nicht mit der Cloud synchronisiert.</p>"
+        },
+        {
+          "label": "Netzwerknutzung",
+          "html": "<p>Das Kernspiel funktioniert offline. Um die extern gehostete Datenschutzerklärung oder die Nutzungsbedingungen zu öffnen, ist eine Internetverbindung erforderlich.</p>"
+        },
+        {
+          "label": "Rechtliches und Datenschutz",
+          "html": "<p>Lies die aktuelle <a href=\"{{privacy}}\">Datenschutzerklärung</a> und die <a href=\"{{service}}\">Nutzungsbedingungen</a>.</p>"
+        }
+      ]
+    },
+    "closing": {
+      "title": "Der Nebel hat sich nicht gelichtet. Die Laterne brennt.",
+      "text": "Mistwick Vigil wird noch immer weiter verbessert. Diese Website und ihre Rechtsseiten werden mit dem Spiel wachsen.",
+      "primary": "Nutzungsbedingungen lesen",
+      "secondary": "Entwickler kontaktieren"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung · Mistwick Vigil",
+    "description": "Datenschutzerklärung für die Android-App und Website von Mistwick Vigil, einschließlich lokaler Spielstände, Auswahl der Systemsprache und extern gehosteter Rechtsseiten.",
+    "ogDescription": "Wie Mistwick Vigil lokale Spieldaten, die Auswahl der Gerätesprache und extern gehostete Rechtsseiten behandelt.",
+    "kicker": "Mistwick Vigil · Datenschutz",
+    "heading": "Datenschutzerklärung",
+    "subtitle": "Diese Erklärung erläutert, welche Daten die aktuelle App Mistwick Vigil auf deinem Gerät speichert, wie sie die anfängliche Sprache auswählt und was geschieht, wenn du diese extern gehostete Seite öffnest.",
+    "meta": [
+      "Dokumentversion 1.1",
+      "Gültig ab 23. November 2026",
+      "Gilt für die Android-App und diese Website"
+    ],
+    "tocTitle": "Auf dieser Seite",
+    "sections": [
+      {
+        "id": "overview",
+        "toc": "Überblick",
+        "title": "1. Überblick und Geltungsbereich",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Mistwick Vigil ist ein Einzelspielerspiel, dessen Kernspiel für den Offline-Betrieb konzipiert ist. Der Entwickler ist die für die App verantwortliche Person und kann über die E-Mail-Adresse im Abschnitt <a href=\"#contact\">Kontakt</a> erreicht werden."
+          },
+          {
+            "type": "p",
+            "html": "Diese Erklärung gilt für die Android-App Mistwick Vigil und die spielspezifischen Seiten dieser Website. Sie beschreibt die aktuelle Version; sie gilt nicht für unabhängige Apps oder Websites, die aus einem Store, einer E-Mail-Anwendung oder deinem Browser verlinkt werden."
+          },
+          {
+            "type": "callout",
+            "html": "<strong>Kurz gesagt:</strong> Die App hat weder ein Kontosystem noch Werbung, Verhaltensanalysen oder In-App-Käufe. Spieleinstellungen und Fortschritt werden lokal gespeichert. Wir betreiben keinen Spielserver, der deine Spielstände empfängt."
+          }
+        ]
+      },
+      {
+        "id": "local-data",
+        "toc": "Lokale Daten",
+        "title": "2. Auf deinem Gerät gespeicherte Informationen",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Um dein Spielerlebnis wiederherzustellen, kann die App die folgenden Informationen in ihrem lokalen Anwendungsspeicher ablegen:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Deine gewählte Sprache der Benutzeroberfläche, Lautstärken, Toneinstellungen, Steuerung und Anzeigeeinstellungen.",
+              "Dein gewählter Wächter und deine gewählte Route, freigeschaltete Routen oder Rollen, Bestleistungen und sonstiger unterstützter Spielfortschritt.",
+              "Die Versionen oder der Bestätigungsstatus von Hinweisen und Rechtsdokumenten in der App, sofern die App diese aufzeichnet."
+            ]
+          },
+          {
+            "type": "p",
+            "html": "Diese Informationen werden ausschließlich dazu verwendet, lokale App-Funktionen bereitzustellen und wiederherzustellen. Sie bilden kein Profil für ein Online-Konto. Das aktuelle Spiel fordert dich nicht auf, deinen Namen, deinen genauen Standort, Kontakte, Fotos oder Zahlungsdaten anzugeben."
+          }
+        ]
+      },
+      {
+        "id": "language",
+        "toc": "Gerätesprache",
+        "title": "3. Anfängliche Auswahl der Gerätesprache",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Beim ersten Start liest die App die von Android bereitgestellten Spracheinstellungen, um eine unterstützte Sprache für die Benutzeroberfläche auszuwählen. Wenn deine bevorzugte Sprache nicht unterstützt wird, verwendet die App Englisch. Sobald du manuell eine Sprache wählst, wird diese Auswahl lokal gespeichert und hat bei späteren Starts Vorrang."
+          },
+          {
+            "type": "p",
+            "html": "Die Spracheinstellung wird für die Darstellung der Benutzeroberfläche verwendet und vom Kernspiel nicht an uns übertragen."
+          }
+        ]
+      },
+      {
+        "id": "network",
+        "toc": "Netzwerk und Rechtsseiten",
+        "title": "4. Netzwerknutzung und extern gehostete Rechtsseiten",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Das Kernspiel benötigt keine Internetverbindung. Die Links zur Datenschutzerklärung und zu den Nutzungsbedingungen in der App verweisen auf Seiten, die auf GitHub Pages gehostet werden. Diese Seiten benötigen daher eine Internetverbindung und sind möglicherweise nicht verfügbar, wenn dein Gerät oder der Hosting-Dienst offline ist."
+          },
+          {
+            "type": "p",
+            "html": "Wenn du eine extern gehostete Rechtsseite öffnest, sendet dein Browser oder deine WebView eine normale Webanfrage an GitHub Pages. GitHub kann technische Verbindungsdaten wie deine IP-Adresse, die angeforderte URL, den Zeitstempel sowie Browser- oder Geräte-Header verarbeiten, um seinen Dienst bereitzustellen und zu schützen. Die App fügt deine Spielstände diesen Links nicht hinzu."
+          },
+          {
+            "type": "p",
+            "html": "Diese Website verwendet keine Werbung, Analyse-Skripte, Tracking-Pixel oder von uns gesetzten Cookies. Dein Browser, dein Netzwerkanbieter und GitHub Pages haben ihre eigenen Datenverarbeitungspraktiken."
+          }
+        ]
+      },
+      {
+        "id": "third-parties",
+        "toc": "Drittanbieter",
+        "title": "5. Dienste von Drittanbietern und externe Links",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "In die aktuelle App binden wir keine Werbenetzwerke, Anbieter von Verhaltensanalysen, Zahlungsdienstleister, Anmeldedienste sozialer Netzwerke oder ein vom Entwickler betriebenes Spiel-Backend ein."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages hostet diese Website und ihre Rechtsdokumente. Ein App-Store kann beim Durchsuchen, Herunterladen, Installieren oder Aktualisieren der App Informationen gemäß seinen eigenen Datenschutzbestimmungen verarbeiten. Wenn du einen E-Mail-Link wählst, verarbeiten deine E-Mail-Anwendung und dein Anbieter die Nachricht und ihren Inhalt."
+          },
+          {
+            "type": "p",
+            "html": "Der Entwickler verkauft oder vermietet keine personenbezogenen Daten. Das Kernspiel gibt keine personenbezogenen Daten zu Werbezwecken oder zur Verhaltensprofilbildung an den Entwickler oder Dritte weiter."
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "toc": "Speicherung und Löschung",
+        "title": "6. Speicherdauer und Löschung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Lokale Einstellungen und Fortschritt bleiben auf deinem Gerät, bis du den App-Speicher in den Android-Einstellungen löschst oder die App deinstallierst. Beide Vorgänge löschen die lokal gespeicherten Einstellungen, Freischaltungen, Ergebnisse und den Fortschritt der App. Sichere separat alles, was dein Gerät oder App-Store anbietet, wenn du es behalten möchtest; das Spiel selbst bietet keine Synchronisierung von Spielständen mit der Cloud."
+          },
+          {
+            "type": "p",
+            "html": "Eine laufende Wacht wird beim Beenden der App nicht auf einen Server des Entwicklers hochgeladen. Informationen, die GitHub, ein App-Store oder dein E-Mail-Anbieter unabhängig verarbeitet, werden gemäß den Richtlinien des jeweiligen Anbieters aufbewahrt."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "toc": "Sicherheit",
+        "title": "7. Sicherheit",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Die Speicherung von Spieldaten im lokalen Speicher der App verringert die Notwendigkeit, sie zu übertragen. Extern gehostete Rechtsseiten werden über HTTPS bereitgestellt. Keine Speicher- oder Übertragungsmethode ist vollkommen sicher. Halte daher dein Gerät und dein Betriebssystem auf dem neuesten Stand und nutze die verfügbaren Zugriffsschutzfunktionen deines Geräts."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "toc": "Kinder",
+        "title": "8. Datenschutz für Kinder",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Die aktuelle App sammelt nicht wissentlich personenbezogene Daten von Kindern über eine Kontoregistrierung, Werbung, Analysen oder einen Spielserver. Eltern und Erziehungsberechtigte sollten die Nutzung externer Weblinks und E-Mails durch Kinder gegebenenfalls beaufsichtigen. Wenn du glaubst, dass uns unnötigerweise personenbezogene Daten gesendet wurden, kontaktiere uns, damit wir dies prüfen und die Daten erforderlichenfalls aus unseren eigenen Aufzeichnungen löschen können."
+          }
+        ]
+      },
+      {
+        "id": "rights",
+        "toc": "Deine Wahlmöglichkeiten und Rechte",
+        "title": "9. Deine Wahlmöglichkeiten und Datenschutzrechte",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Du kannst das Kernspiel spielen, ohne ein Konto zu erstellen, die Sprache der Benutzeroberfläche in der App ändern, das Öffnen externer Seiten oder E-Mail-Links vermeiden und lokale Daten mit den Steuerelementen von Android löschen."
+          },
+          {
+            "type": "p",
+            "html": "Je nach geltendem Recht hast du möglicherweise Rechte in Bezug auf personenbezogene Daten, die du uns freiwillig gesendet hast, etwa in einer E-Mail an den Support. Du kannst uns kontaktieren, um Auskunft über, Berichtigung oder Löschung von Informationen in unseren eigenen Aufzeichnungen zu verlangen, vorbehaltlich gesetzlicher Aufbewahrungspflichten und notwendiger Identitätsprüfungen. Informationen, die sich bei einer Plattform oder bei GitHub befinden, müssen über den jeweiligen Anbieter geregelt werden."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "toc": "Änderungen der Erklärung",
+        "title": "10. Änderungen dieser Datenschutzerklärung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Wir können diese Erklärung aktualisieren, wenn sich Funktionen, Hosting oder Datenverarbeitungspraktiken der App ändern. Die Dokumentversion und das Gültigkeitsdatum oben kennzeichnen den aktuellen Text. Wesentliche Änderungen werden gegebenenfalls in der App oder auf dieser Website angezeigt. Die fortgesetzte Nutzung nach einer Aktualisierung unterliegt der überarbeiteten Erklärung, sofern geltendes Recht keine andere Form der Benachrichtigung oder Einwilligung verlangt."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Kontakt",
+        "title": "11. Kontakt",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Bei Fragen zum Datenschutz, für Support oder für ein Anliegen zu Informationen, die du dem Entwickler gesendet hast, kontaktiere:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Gib die App-Version und ausreichend Details an, damit wir dein Anliegen verstehen können. Sende jedoch keine Passwörter, Zahlungsdaten oder unnötigen sensiblen Informationen."
+          }
+        ]
+      }
+    ]
+  },
+  "service": {
+    "title": "Nutzungsbedingungen · Mistwick Vigil",
+    "description": "Nutzungsbedingungen für Mistwick Vigil zu App-Lizenz, zulässiger Nutzung, lokalem Fortschritt, Updates und externen Rechtsseiten.",
+    "ogDescription": "Die App-Lizenz, Regeln für zulässige Nutzung, lokaler Fortschritt und Bedingungen für Updates von Mistwick Vigil.",
+    "kicker": "Mistwick Vigil · Nutzungsbedingungen",
+    "heading": "Nutzungsbedingungen",
+    "subtitle": "Diese Bedingungen regeln deine Nutzung der aktuellen Android-App und Spielwebsite von Mistwick Vigil. Bitte lies sie, bevor du das Spiel installierst, darauf zugreifst oder es nutzt.",
+    "meta": [
+      "Dokumentversion 1.1",
+      "Gültig ab 23. November 2026",
+      "Gilt für die Android-App und diese Website"
+    ],
+    "tocTitle": "Auf dieser Seite",
+    "sections": [
+      {
+        "id": "acceptance",
+        "toc": "Annahme und Geltungsbereich",
+        "title": "1. Annahme und Geltungsbereich",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Durch die Installation, den Zugriff auf oder die Nutzung von Mistwick Vigil stimmst du diesen Bedingungen und der <a href=\"{{privacy}}\">Datenschutzerklärung</a> zu. Wenn du nicht zustimmst, installiere oder nutze die App nicht und deinstalliere jede bereits auf deinem Gerät vorhandene Kopie."
+          },
+          {
+            "type": "p",
+            "html": "In diesen Bedingungen umfasst „Spiel“ die Anwendung sowie die darin enthaltenen Szenen, Bilder, Audiodateien, Texte und den Code. „Website“ bezeichnet die Seiten von Mistwick Vigil unter <a href=\"{{home}}\">zouyongzhen.github.io/mistwick-vigil/</a>. Für das Herunterladen und die Nutzung der App können zusätzlich die Bedingungen des App-Stores gelten."
+          }
+        ]
+      },
+      {
+        "id": "eligibility",
+        "toc": "Berechtigung",
+        "title": "2. Berechtigung und Beaufsichtigung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Du musst die in deiner Rechtsordnung erforderliche Geschäftsfähigkeit besitzen, um diesen Bedingungen zuzustimmen. Wenn du minderjährig bist oder aus einem anderen Grund eine Erlaubnis benötigst, muss ein Elternteil oder gesetzlicher Vertreter diese Bedingungen prüfen und ihnen zustimmen sowie deine Nutzung beaufsichtigen, soweit geltendes Recht dies verlangt."
+          },
+          {
+            "type": "p",
+            "html": "Du bist dafür verantwortlich, die für dich geltenden Gesetze, App-Store-Regeln und Geräteanforderungen einzuhalten."
+          }
+        ]
+      },
+      {
+        "id": "license",
+        "toc": "App-Lizenz",
+        "title": "3. Beschränkte App-Lizenz",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Vorbehaltlich dieser Bedingungen gewährt dir der Entwickler eine persönliche, beschränkte, nicht ausschließliche, nicht übertragbare, nicht unterlizenzierbare und widerrufliche Lizenz, die aktuelle App auf Geräten zu installieren und zu nutzen, die du besitzt oder kontrollierst, ausschließlich zur persönlichen Unterhaltung."
+          },
+          {
+            "type": "p",
+            "html": "Diese Lizenz überträgt kein Eigentum am Spiel oder an seinen Inhalten. Nicht ausdrücklich gewährte Rechte bleiben dem Entwickler und den jeweiligen Rechteinhabern vorbehalten. Gesetzliche Rechte, die rechtmäßig nicht eingeschränkt werden können, bleiben unberührt."
+          }
+        ]
+      },
+      {
+        "id": "use",
+        "toc": "Zulässige Nutzung",
+        "title": "4. Zulässige Nutzung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Du darfst unterstützte Einstellungen anpassen, Wächter wählen, verfügbare Kampagnenrouten und endlose Wachen spielen und die aktuellen Funktionen des Spiels zur persönlichen Unterhaltung nutzen."
+          },
+          {
+            "type": "p",
+            "html": "Du darfst nicht:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Das Spiel oder die Website nutzen, um gegen Gesetze zu verstoßen, Rechte anderer zu verletzen, Schadcode zu verbreiten oder den Betrieb oder die Sicherheit eines Dienstes oder Geräts zu beeinträchtigen.",
+              "Geschützte Spielinhalte ohne Genehmigung zu kopieren, weiterzuverbreiten, zu verkaufen, zu vermieten, unterzulizenzieren, öffentlich zu zeigen oder kommerziell zu verwerten, es sei denn, geltendes Recht erlaubt dies ausdrücklich.",
+              "Rechtehinweise zu entfernen, technische Schutzmaßnahmen zu umgehen oder veränderte beziehungsweise inoffizielle Kopien als offizielles Spiel auszugeben.",
+              "Spielcode oder Spielressourcen zurückzuentwickeln oder zu extrahieren, außer in dem begrenzten Umfang, in dem eine solche Beschränkung nach geltendem Recht unzulässig ist."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "toc": "Lokaler Fortschritt",
+        "title": "5. Lokale Einstellungen und Fortschritt",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Einstellungen, Freischaltungen, Bestleistungen und sonstiger unterstützter Fortschritt werden lokal auf dem aktuellen Gerät gespeichert. Sie werden nicht automatisch mit einem Konto oder Cloud-Dienst synchronisiert, und der Entwickler kann sie nicht von einem Spielserver wiederherstellen."
+          },
+          {
+            "type": "p",
+            "html": "Das Löschen der App-Daten, die Deinstallation des Spiels, ein Gerätewechsel oder bestimmte Vorgänge des Betriebssystems können lokalen Fortschritt löschen oder unzugänglich machen. Eine laufende Wacht kann enden, wenn die App geschlossen oder unterbrochen wird. Fortschritt, der nicht lokal gespeichert wurde, kann nicht wiederhergestellt werden."
+          }
+        ]
+      },
+      {
+        "id": "external",
+        "toc": "Netzwerk und externe Dienste",
+        "title": "6. Netzwerknutzung und externe Dienste",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Das Kernspiel ist für den Offline-Betrieb konzipiert. Das Öffnen der extern gehosteten Datenschutzerklärung oder Nutzungsbedingungen erfordert eine Internetverbindung. Wir garantieren nicht, dass externe Seiten stets verfügbar oder mit jedem Browser, jeder WebView, jedem Netzwerk oder jedem Gerät kompatibel sind."
+          },
+          {
+            "type": "p",
+            "html": "GitHub Pages, App-Stores, Browser und E-Mail-Anbieter sind Dienste Dritter mit eigenen Bedingungen und Datenschutzpraktiken. Wir sind nicht für Inhalte oder Dienste Dritter verantwortlich, die wir nicht kontrollieren. Ein Link wird der Einfachheit halber bereitgestellt und überträgt keine Verantwortung für den unabhängigen Betrieb des Drittanbieters."
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "toc": "Inhalte und Feedback",
+        "title": "7. Spielinhalte und Feedback",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Das Spiel, die Website, das visuelle Design, Bilder, Audiodateien, Texte und Code werden vom Entwickler oder den jeweiligen Rechteinhabern bereitgestellt und sind durch geltende Gesetze zum geistigen Eigentum geschützt."
+          },
+          {
+            "type": "p",
+            "html": "Wenn du freiwillig Vorschläge, Fehlerberichte oder anderes Feedback sendest, erlaubst du dem Entwickler, dieses Feedback ohne Einschränkung oder Vergütung zu nutzen, um das Spiel zu betreiben, zu verbessern und weiterzuentwickeln. Dadurch erwirbt er jedoch kein Eigentum an deinen unabhängigen persönlichen Materialien. Übermittle keine vertraulichen Informationen, unnötigen sensiblen personenbezogenen Daten oder Materialien, die du nicht weitergeben darfst."
+          },
+          {
+            "type": "callout",
+            "html": "Das Spiel wird noch weiter verbessert. Beschreibungen möglicher künftiger Entwicklungen sind keine Zusagen für eine bestimmte Funktion, ein Veröffentlichungsdatum, Kompatibilität oder fortgesetzte Verfügbarkeit."
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "toc": "Updates und Verfügbarkeit",
+        "title": "8. Updates und Verfügbarkeit",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Updates können Probleme beheben, Balancing oder Spielablauf anpassen, die Kompatibilität ändern sowie Inhalte hinzufügen, verändern oder entfernen. Einige Updates können erforderlich sein, um eine unterstützte Version weiterhin zu nutzen. Auf der Website beschriebene Funktionen gelten nur für die dort oder in der App angegebene Version."
+          },
+          {
+            "type": "p",
+            "html": "Wir können das Spiel, die Website oder eine bestimmte Version aus Wartungs-, Sicherheits-, Rechts-, Betriebs- oder Entwicklungsgründen aussetzen, einstellen oder deren Support beenden. Soweit praktikabel, werden wesentliche Änderungen über die App, die Website oder die Vertriebsplattform mitgeteilt."
+          }
+        ]
+      },
+      {
+        "id": "disclaimer",
+        "toc": "Haftungsausschlüsse",
+        "title": "9. Haftungsausschlüsse",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Soweit nach geltendem Recht zulässig, werden das Spiel und die Website „wie besehen“ und „wie verfügbar“ ohne ausdrücklich genannte Garantien bereitgestellt. Wir garantieren keinen ununterbrochenen oder fehlerfreien Betrieb, nicht die Behebung jedes Fehlers und auch nicht, dass das Spiel jede Vorstellung erfüllt oder auf jedem Gerät funktioniert."
+          },
+          {
+            "type": "p",
+            "html": "Nichts in diesen Bedingungen schließt eine Verbrauchergarantie, Gewährleistung oder ein sonstiges Recht aus, das rechtmäßig nicht ausgeschlossen werden kann. Du bist für die Wartung deines Geräts und für jede separate Sicherungslösung verantwortlich, die du verwenden möchtest."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "toc": "Haftung",
+        "title": "10. Haftungsbeschränkung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Soweit nach geltendem Recht zulässig, haftet der Entwickler nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden oder für den Verlust lokal gespeicherten Fortschritts infolge von Gerätewechseln, Löschung, Deinstallation oder unterlassener separater Datensicherung."
+          },
+          {
+            "type": "p",
+            "html": "Diese Beschränkungen schließen die Haftung für Tod oder Körperverletzung durch Fahrlässigkeit, Betrug oder arglistige Täuschung sowie jede andere Haftung, die rechtmäßig nicht ausgeschlossen oder beschränkt werden kann, weder aus noch beschränken sie diese. Deine gesetzlichen Verbraucherrechte bleiben unberührt."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "toc": "Beendigung",
+        "title": "11. Aussetzung und Beendigung",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Du kannst die Nutzung des Spiels jederzeit durch Deinstallation beenden. Wir können die Lizenz einschränken oder beenden, wenn du wesentlich gegen diese Bedingungen verstößt oder wenn dies zur Sicherheit, zur Einhaltung von Rechtsvorschriften oder zum Schutz des Spiels oder anderer erforderlich ist, vorbehaltlich des geltenden Rechts."
+          },
+          {
+            "type": "p",
+            "html": "Mit dem Ende der Lizenz musst du die Nutzung der App einstellen und verbleibende Kopien löschen, sofern das Gesetz nichts anderes erlaubt. Bestimmungen zu geistigem Eigentum, Feedback, Haftungsausschlüssen, Haftung sowie bereits entstandenen Rechten oder Pflichten bleiben im jeweils angemessenen Umfang bestehen."
+          }
+        ]
+      },
+      {
+        "id": "general",
+        "toc": "Allgemeine Bestimmungen",
+        "title": "12. Allgemeine Bestimmungen",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Wird eine Bestimmung für nicht durchsetzbar befunden, wird sie im größtmöglichen gesetzlich zulässigen Umfang durchgesetzt, und die übrigen Bestimmungen bleiben wirksam. Die unterlassene oder verzögerte Durchsetzung einer Bestimmung stellt keinen Verzicht dar. Du darfst diese Lizenz nicht ohne Genehmigung übertragen; der Entwickler darf Rechte oder Pflichten im Zusammenhang mit einer Übertragung des Spiels abtreten, vorbehaltlich des geltenden Rechts."
+          },
+          {
+            "type": "p",
+            "html": "Diese Bedingungen und die Datenschutzerklärung bilden die Vereinbarung zwischen dir und dem Entwickler über das aktuelle Spiel, ohne zwingende Rechte oder Pflichten nach geltendem Recht auszuschließen. Übersetzte Fassungen werden der Einfachheit halber bereitgestellt und sollten zusammen mit der oben angegebenen Version und dem Gültigkeitsdatum gelesen werden."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "toc": "Kontakt",
+        "title": "13. Kontakt",
+        "blocks": [
+          {
+            "type": "p",
+            "html": "Wenn du eine Frage zum Spiel, zu diesen Bedingungen oder zur Website hast, kontaktiere den Entwickler unter:"
+          },
+          {
+            "type": "p",
+            "html": "<a href=\"mailto:yongzhen_zou@163.com\">yongzhen_zou@163.com</a>"
+          },
+          {
+            "type": "p",
+            "html": "Bitte gib deine App-Version und eine klare Beschreibung des Problems an. Für Supportanfragen gilt auch die in der Datenschutzerklärung beschriebene Datenverarbeitung."
+          }
+        ]
+      }
+    ]
+  }
+}
